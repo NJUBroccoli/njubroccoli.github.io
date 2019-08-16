@@ -1,0 +1,8 @@
+title: njubroccoli.github.io
+description: homepage
+google_analytics:
+show_downloads: false
+theme: texture
+
+gems:
+	- jekyll-mentions
