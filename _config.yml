@@ -1,5 +1,5 @@
-title: njubroccoli.github.io
+title: Yicheng's homepage
 description: homepage
 google_analytics:
 show_downloads: false
-theme: texture
+theme: jekyll-theme-slate
