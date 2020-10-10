@@ -2,9 +2,7 @@
 
 - M.Sc. Student
 - <a href="mailto:njuhuangyc@outlook.com">njuhuangyc@outlook.com</a>
-
 - <a href="http://ics.nju.edu.cn/spar/">SPAR</a> Group, Institute of Computer Software, Dept. of Computer Science and Technology, Nanjing University
-
 - Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
 
 ## About
@@ -17,7 +15,6 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
   - Studying for an M.Sc. Degree in Computer Science and Technology
 - Department of Computer Science and Technology, Nanjing University (2016.09 - 2020.07)
   - Received a B.S. Degree in Computer Science and Technology
-
 - Nanjing Senior High School of Jiangsu Province (2013.09 - 2016.06)
   - Received a high school diploma
 
@@ -38,9 +35,7 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 #### Selected Course Projects:
 
 - [x86 Full System Emulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from NJU course: "Introduction to Computer Systems", in C)
-
 - [Mini Operating System Kernel](https://github.com/NJUBroccoli/oslab) (from NJU course: "Operating Systems", in C)
-
 - [CMM Compiler](https://github.com/NJUBroccoli/HYCompiler) (from NJU course: "Principles and Techniques of Compiler", in C)
 - Sudoku Game System (from NJU course: "Problem Solving (I)", in C++)
 - [Graphic Drawing Application](https://github.com/NJUBroccoli/HYC-Paint) (from NJU course: "Principle of Computer Graphics", in Java)
@@ -51,21 +46,15 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 ### Personal Honors
 
 1. 2020 Outstanding Graduates of Nanjing University (2020年南京大学优秀毕业生)
-
 2. 2018-2019 Outstanding Student Cadre Pacesetters of Nanjing University (2018-2019年度南京大学优秀学生干部标兵)
-
 3. 2018 Outstanding Communist Youth League Cadres of Nanjing University (2018年南京大学优秀共青团干部)
-
 4. 2017 Outstanding Communist Youth League Members of Nanjing University (2017年南京大学优秀共青团员)
-
 5. 2016-2017 Outstanding Students of Nanjing University (2016-2017年度南京大学优秀学生)
-
 6. 2016-2017 Department Stars of Nanjing University Student Association Union (2016-2017年度南京大学学生社团联合会部门之星)
 
 ### Awards on Scholarships and Contests
 
 1. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
-
 2. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
 3. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM) (2018年美国大学生交叉建模竞赛M奖)
 4. First Place in 2018 HKUST-NJU Academic Competition (Computer Science), with Qinlin Chen and Shixuan Zhao (2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名)
@@ -90,7 +79,6 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 ### Social Practices
 
 - 2018 Campus Festival of CAC Anime Club: I Participated in the Chorus of "Sakura no Ame" as a Member of the Tenor Vocal Part of the Monge Chorus
-
 - 2017 School-level Social Pratice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of Nine Students)
 
 ## Hobbies
