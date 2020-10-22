@@ -1,3 +1,4 @@
+% Welcome to Yicheng's homepage!
 # Yicheng Huang (黄奕诚)
 
 - M.Sc. Student
