@@ -7,14 +7,14 @@
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests include but are not limited to end-user programming (especially spreadsheets), program synthesis, and program analysis. I desire to free the programmers and end users around the world (including me) from dirty mechanical work and annoying bugs. Instead, we should embrace reliable automation and creativity, which is the spirit of human wisdom.
+I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests include but are not limited to end-user programming (especially spreadsheets), program synthesis, and program analysis. I desire to free the programmers and end users around the world (including me) from dirty mechanical work and annoying bugs. Instead, we should embrace reliable automation and creativity, which is the spirit of human wisdom.
 
 ## Education
 
 - Department of Computer Science and Technology, Nanjing University (2020.09 - )
   - Studying for an M.Sc. Degree in Computer Science and Technology
 - Department of Computer Science and Technology, Nanjing University (2016.09 - 2020.07)
-  - Received a B.S. Degree in Computer Science and Technology
+  - Received a B.Sc. Degree in Computer Science and Technology
 - Nanjing Senior High School of Jiangsu Province (2013.09 - 2016.06)
   - Received a high school diploma
 
