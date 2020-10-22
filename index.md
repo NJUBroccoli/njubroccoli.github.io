@@ -26,7 +26,7 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ### Projects
 
-#### **National Innovation Projects for Undergraduates**:
+#### National Innovation Projects for Undergraduates:
 
 - Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
   - Project leader, corporating with [Qinlin Chen](https://qinlinchen.github.io/), advised by Prof. [Chang Xu](https://cs.nju.edu.cn/changxu/)
