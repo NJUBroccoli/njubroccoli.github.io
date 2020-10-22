@@ -1,5 +1,3 @@
-<title>Welcome to Yicheng's homepage!</title>
-
 # Yicheng Huang (黄奕诚)
 
 - M.Sc. Student
