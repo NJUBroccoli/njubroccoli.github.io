@@ -3,7 +3,7 @@
 - M.Sc. Student
 - <a href="mailto:njuhuangyc@outlook.com">njuhuangyc@outlook.com</a>
 - <a href="http://ics.nju.edu.cn/spar/">SPAR</a> Group, Institute of Computer Software, Dept. of Computer Science and Technology, Nanjing University
-- Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
+- Room 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
 
 ## About
 
