@@ -72,6 +72,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Student Affairs
 
+- Representative of the 24th Student Congress of Nanjing University (Jul. 2020)
 - Monitor of Elite Program Class, Grade 2016, Dept. of Computer Science and Technology, Nanjing Univeristy (from Sep. 2016 to Jul. 2020)
 - Assistant of Student Affairs Office, Dept. of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
 - Office Member of Nanjing University Student Association Union (from Sep. 2016 to Jul. 2017)
