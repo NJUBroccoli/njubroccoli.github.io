@@ -67,7 +67,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 ### Academic
 
 - Teaching Assistant: <a href="https://nju-sicp.bitbucket.io">"Structure and Interpretation of Computer Programs"</a>, Dept. of Computer Science and Technology, Nanjing University, Fall 2020.
-- Attending Conferences: CNCC'17 (Fujian, China), PLDI'20 (online), NASAC'20 (Chongqing, China).
+- Attending Conferences: CNCC'17 (Fuzhou, China), PLDI'20 (online), NASAC'20 (Chongqing, China).
 - Academic Exchanges in Four Universities (HKU, CUHK, HKUST, and PolyU) in Hong Kong (Organized by Dept. of Computer Science and Technology, Nanjing University) in Feb. 2018
 
 ### Student Affairs
