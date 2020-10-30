@@ -2,22 +2,26 @@
 
 - M.Sc. Student
 - <a href="mailto:njuhuangyc@outlook.com">njuhuangyc@outlook.com</a>
+<<<<<<< HEAD
 
 - <a href="http://ics.nju.edu.cn/spar/">SPAR</a> Group, Institute of Computer Software, Department of Computer Science and Technology, Nanjing University
 
 - Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
+=======
+- <a href="http://ics.nju.edu.cn/spar/">SPAR</a> Group, Institute of Computer Software, Dept. of Computer Science and Technology, Nanjing University
+- Office: Room 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
+>>>>>>> 2e3c7d200284765d9958dad34fa2e3ed52370698
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests include but are not limited to end-user programming, program synthesis, testing, and analysis.
+I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests include but are not limited to end-user programming (especially spreadsheets), program synthesis, and program analysis. I desire to free the programmers and end users around the world (including me) from dirty mechanical work and annoying bugs. Instead, we should embrace reliable automation and creativity, which is the spirit of human wisdom.
 
 ## Education
 
 - Department of Computer Science and Technology, Nanjing University (2020.09 - )
   - Studying for an M.Sc. Degree in Computer Science and Technology
 - Department of Computer Science and Technology, Nanjing University (2016.09 - 2020.07)
-  - Received a B.S. Degree in Computer Science and Technology
-
+  - Received a B.Sc. Degree in Computer Science and Technology
 - Nanjing Senior High School of Jiangsu Province (2013.09 - 2016.06)
   - Received a high school diploma
 
@@ -29,7 +33,7 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ### Projects
 
-#### **National Innovation Projects for Undergraduates**:
+#### National Innovation Projects for Undergraduates:
 
 - Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
   - Project leader, corporating with [Qinlin Chen](https://qinlinchen.github.io/), advised by Prof. [Chang Xu](https://cs.nju.edu.cn/changxu/)
@@ -38,9 +42,7 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 #### Selected Course Projects:
 
 - [x86 Full System Emulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from NJU course: "Introduction to Computer Systems", in C)
-
 - [Mini Operating System Kernel](https://github.com/NJUBroccoli/oslab) (from NJU course: "Operating Systems", in C)
-
 - [CMM Compiler](https://github.com/NJUBroccoli/HYCompiler) (from NJU course: "Principles and Techniques of Compiler", in C)
 - Sudoku Game System (from NJU course: "Problem Solving (I)", in C++)
 - [Graphic Drawing Application](https://github.com/NJUBroccoli/HYC-Paint) (from NJU course: "Principle of Computer Graphics", in Java)
@@ -51,21 +53,15 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 ### Personal Honors
 
 1. 2020 Outstanding Graduates of Nanjing University (2020年南京大学优秀毕业生)
-
 2. 2018-2019 Outstanding Student Cadre Pacesetters of Nanjing University (2018-2019年度南京大学优秀学生干部标兵)
-
 3. 2018 Outstanding Communist Youth League Cadres of Nanjing University (2018年南京大学优秀共青团干部)
-
 4. 2017 Outstanding Communist Youth League Members of Nanjing University (2017年南京大学优秀共青团员)
-
 5. 2016-2017 Outstanding Students of Nanjing University (2016-2017年度南京大学优秀学生)
-
 6. 2016-2017 Department Stars of Nanjing University Student Association Union (2016-2017年度南京大学学生社团联合会部门之星)
 
 ### Awards on Scholarships and Contests
 
 1. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
-
 2. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
 3. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM) (2018年美国大学生交叉建模竞赛M奖)
 4. First Place in 2018 HKUST-NJU Academic Competition (Computer Science), with Qinlin Chen and Shixuan Zhao (2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名)
@@ -77,6 +73,7 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ### Academic
 
+<<<<<<< HEAD
 - Teaching Assistant: <a href="https://nju-sicp.bitbucket.io">"Structure and Interpretation of Computer Programs"</a>, Department of Computer Science and Technology, Nanjing University, Fall 2020.
 - Attending Conferences: CNCC'17, PLDI'20
 - Academic Exchanges in Four Universities (HKU, CUHK, HKUST, and PolyU) in Hong Kong (Organized by Department of Computer Science and Technology, Nanjing University) in Feb. 2018
@@ -85,12 +82,22 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 - Monitor of Elite Program Class, Grade 2016, Department of Computer Science and Technology, Nanjing Univeristy (from Sep. 2016 to Jul. 2020)
 - Assistant of Student Affairs Office, Department of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
+=======
+- Teaching Assistant: <a href="https://nju-sicp.bitbucket.io">"Structure and Interpretation of Computer Programs"</a>, Dept. of Computer Science and Technology, Nanjing University, Fall 2020.
+- Attending Conferences: CNCC'17 (Fuzhou, China), PLDI'20 (online), NASAC'20 (Chongqing, China).
+- Academic Exchanges in Four Universities (HKU, CUHK, HKUST, and PolyU) in Hong Kong (Organized by Dept. of Computer Science and Technology, Nanjing University) in Feb. 2018
+
+### Student Affairs
+
+- Representative of the 24th Student Congress of Nanjing University (Jul. 2020)
+- Monitor of Elite Program Class, Grade 2016, Dept. of Computer Science and Technology, Nanjing Univeristy (from Sep. 2016 to Jul. 2020)
+- Assistant of Student Affairs Office, Dept. of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
+>>>>>>> 2e3c7d200284765d9958dad34fa2e3ed52370698
 - Office Member of Nanjing University Student Association Union (from Sep. 2016 to Jul. 2017)
 
 ### Social Practices
 
 - 2018 Campus Festival of CAC Anime Club: I Participated in the Chorus of "Sakura no Ame" as a Member of the Tenor Vocal Part of the Monge Chorus
-
 - 2017 School-level Social Pratice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of Nine Students)
 
 ## Hobbies
