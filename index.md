@@ -3,7 +3,7 @@
 - M.Sc. Student
 - <a href="mailto:njuhuangyc@outlook.com">njuhuangyc@outlook.com</a>
 
-- <a href="http://ics.nju.edu.cn/spar/">SPAR</a> Group, Institute of Computer Software, Dept. of Computer Science and Technology, Nanjing University
+- <a href="http://ics.nju.edu.cn/spar/">SPAR</a> Group, Institute of Computer Software, Department of Computer Science and Technology, Nanjing University
 
 - Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
 
@@ -77,14 +77,14 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ### Academic
 
-- Teaching Assistant: <a href="https://nju-sicp.bitbucket.io">"Structure and Interpretation of Computer Programs"</a>, Dept. of Computer Science and Technology, Nanjing University, Fall 2020.
+- Teaching Assistant: <a href="https://nju-sicp.bitbucket.io">"Structure and Interpretation of Computer Programs"</a>, Department of Computer Science and Technology, Nanjing University, Fall 2020.
 - Attending Conferences: CNCC'17, PLDI'20
-- Academic Exchanges in Four Universities (HKU, CUHK, HKUST, and PolyU) in Hong Kong (Organized by Dept. of Computer Science and Technology, Nanjing University) in Feb. 2018
+- Academic Exchanges in Four Universities (HKU, CUHK, HKUST, and PolyU) in Hong Kong (Organized by Department of Computer Science and Technology, Nanjing University) in Feb. 2018
 
 ### Student Affairs
 
-- Monitor of Elite Program Class, Grade 2016, Dept. of Computer Science and Technology, Nanjing Univeristy (from Sep. 2016 to Jul. 2020)
-- Assistant of Student Affairs Office, Dept. of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
+- Monitor of Elite Program Class, Grade 2016, Department of Computer Science and Technology, Nanjing Univeristy (from Sep. 2016 to Jul. 2020)
+- Assistant of Student Affairs Office, Department of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
 - Office Member of Nanjing University Student Association Union (from Sep. 2016 to Jul. 2017)
 
 ### Social Practices
@@ -95,9 +95,9 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ## Hobbies
 
-I love thinking and coding. Thanks to my course assignments, I successfully implemented x86 ISA and its emulator, an operating system with its own thread library and file system, a C-- compiler translated into MIPS, and a naïve graphic drawing application supporting drawing, manipulation and clipping.
+I love thinking and coding. Thanks to my course assignments, I once implemented x86 ISA and its emulator, an operating system with its own thread library and file system, a C-- compiler translated into MIPS, and a naïve graphic drawing application supporting drawing, manipulation and clipping.
 
-In spare time, I developed a 3D Tower Defense Game with Unity3D, and also developed a VSCode extension <a href="https://marketplace.visualstudio.com/items?itemName=Broccoli.cba-vscode">Coding Behavior Analysis</a> to analyze users&#39; coding behavior like coding speed, coding accuracy and frequency of typed characters. Also, I set up a blog website with Flask. All in all, learning to code is funny, although sometimes bitter (especially when debugging with dependencies unknown).
+In spare time, I developed a 3D Tower Defense Game with Unity3D, a VSCode extension <a href="https://marketplace.visualstudio.com/items?itemName=Broccoli.cba-vscode">Coding Behavior Analysis</a> to analyze users&#39; coding behavior like coding speed, coding accuracy and frequency of typed characters, and a blog website with Flask. Coding is funny, although sometimes bitter.
 
 Watching videos (especially Anime), working out in gyms, cooking, and walking compose most of my leisure time.
 
