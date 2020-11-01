@@ -104,7 +104,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 - 单调性（Monotonicity）：一个函数$$f: L\rightarrow L$$（$$L$$是一个格）是单调的，若$$\forall x,y\in L$$，有$$x\sqsubseteq y \Rightarrow f(x)\sqsubseteq f(y)$$
 - 不动点定理：给定一个完全格$$(L, \sqsubseteq)$$，若(1)$$f: L\rightarrow L$$是单调的，且(2)$$L$$是有限的，则$$f$$的最小不动点可以通过迭代$$f(\bot),f(f(\bot)),\dots,f^k(\bot)$$直到达到一个不动点来找到，最大不动点可以通过迭代$$f(\top),f(f(\top)),\dots,f^k(\top)$$直到达到一个不动点来找到。
 
-![image-20200620203902121](1.png)
+![](1.png)
 
 #### Meet-Over-All-Paths Solution（MOP）
 
@@ -204,11 +204,11 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 规则
 
-  ![image-20200621103927434](3.png)
+  ![](3.png)
 
 - 算法
 
-  ![image-20200621105141420](4.png)
+  ![](4.png)
 
   - 差分传播（Differential Propagation）的目的：避免传播和处理重复的信息，提升效率。已有的$$pt(n)$$中的指向信息已经被传播到$$n$$的后继了，无需再次传播。
 
@@ -216,13 +216,13 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 规则：调用
 
-  ![image-20200621110904124](5.png)
+  ![](5.png)
 
   - 为什么不加边$$x\rightarrow m_{this}$$？这条边会为`this`变量引入spurious的指向关系。Receiver object只应该流入对应的目标方法的`this`变量中。
 
 - 算法
 
-  ![image-20200621111451760](6.png)
+  ![](6.png)
 
 
 
@@ -239,7 +239,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 重点是Call的规则
 
-  ![image-20200621114736722](7.png)
+  ![](7.png)
 
 #### 上下文敏感变体
 
@@ -354,9 +354,9 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 规则
 
-  ![image-20200621141508598](8.png)
+  ![](8.png)
 
-  ![image-20200621142020370](9.png)
+  ![](9.png)
 
 #### 基于Datalog的污点分析
 
@@ -371,7 +371,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 规则
 
-  ![image-20200621142436285](10.png)
+  ![](10.png)
 
 - 基于Datalog的程序分析
   - 优点：简洁、易读、易实现，受益于现成的优化的Datalog引擎
@@ -416,7 +416,7 @@ $$G^*=(N^*,E^*)$$，其中$$G^*$$包含一系列过程内流图$$G_1,G_2,\dots$$
 
 - IDEA：将流函数转化为表示关系（representation relations）
 - 若$$D$$为数据流facts的有限集，那么流函数可以表示为拥有$$2(D+1)$$个结点，最多$$(D+1)^2$$条边的图。
-- ![image-20200621155427306](11.png)
+- ![](11.png)
 - 为什么需要边$$0\rightarrow 0$$？
   - 如果没有这条边，每条边的表示关系就不可能被连接起来而“粘贴”到一起，就像传统流分析中流函数不能被组合在一起。IFDS无法依赖这种不连接的表示关系输出正确解。
 
