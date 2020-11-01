@@ -249,9 +249,8 @@ $$R(A_1,A_2,\dots, A_n)$$和$$S(B_1,B_2,\dots, B_m)$$
 		- 谓词：一种由一个谓词标识符号$$P$$和若干个(个体)变元$$x_1, x_2, \dots, x_n$$所组成的符号。如$$P(x_1,x_2,\dots,x_n)$$。谓词是一个能够根据变元的取值来判断其是否成立的逻辑表达式，相当于一个带有变量的命题公式。
 		- 指派：设变元$$x_1,x_2,\dots,x_n$$分别取值$$v_1,v_2,\dots,v_n$$，则$$(v_1,v_2,\dots,v_n)$$称为谓词$$P(x_1,x_2,\dots,x_n)$$的一个指派。成真指派/成假指派
 	+ **关系的表示**
-		- 元组关系演算：$$R=\{t|P(t)\}$$用来描述（表示）由谓词$$P(t)$$的所有成真指派所构成的元组集合。可简写为$$P(t)$$。
-		- 域关系演算：$$R＝\{ <x_1,x_2,\dots,x_n> | P (x_1,x_2,\dots,x_n) \}$$
-，其中，$$x_1,x_2,\dots,x_n$$是谓词$$P (x_1,x_2,\dots,x_n)$$中的所有自由变元。
+		- 元组关系演算：$$R=\{t\mid P(t)\}$$用来描述（表示）由谓词$$P(t)$$的所有成真指派所构成的元组集合。可简写为$$P(t)$$。
+		- 域关系演算：$$R＝\{ <x_1,x_2,\dots,x_n> \mid P (x_1,x_2,\dots,x_n) \}$$，其中，$$x_1,x_2,\dots,x_n$$是谓词$$P (x_1,x_2,\dots,x_n)$$中的所有自由变元。
 	+ **原子公式、公式的定义**
 		- 原子公式
 			1. 谓词$$R(t)$$是原子公式
@@ -263,7 +262,7 @@ $$R(A_1,A_2,\dots, A_n)$$和$$S(B_1,B_2,\dots, B_m)$$
 			3. 如果$$\varphi$$是公式，$$\varphi$$中有自由变元$$r$$，则$$\exists r(\varphi),\forall r(\varphi)$$均为公式
 			4. 公式由且仅由上面三种方式通过有限次组合构成
 	+ **关系代数与关系演算的对应关系**
-		- 用关系演算表示关系代数$$R\cup S=\{t|R(t)\vee S(t)\}$$$$R-S=\{t|R(t)\wedge\neg S(t)\}$$$$\sigma_F(R)=\{t|R(t)\wedge F\}$$$$\pi_{A_{i_1},A_{i_2},\dots,A_{i_k}}(R)=\{u^{(k)}|\exists t(R(t)\wedge u(1)=t(i_1)\wedge u(2)=t(i_2)\wedge\dots\wedge u(k)=t(i_k))\}$$$$R\times S=\{t^{(m+n)}|\exists u^{(m)}\exists v^{(n)}(R(u)\wedge S(v)\wedge t(1)=u(1)\wedge\dots$$$$\wedge t(m)=u(m)\wedge t(m+1)=v(1)\wedge\dots\wedge t(m+n)=v(n))\}$$
+		- 用关系演算表示关系代数$$R\cup S=\{t\mid R(t)\vee S(t)\}$$$$R-S=\{t\mid R(t)\wedge\neg S(t)\}$$$$\sigma_F(R)=\{t\mid R(t)\wedge F\}$$$$\pi_{A_{i_1},A_{i_2},\dots,A_{i_k}}(R)=\{u^{(k)}\mid \exists t(R(t)\wedge u(1)=t(i_1)\wedge u(2)=t(i_2)\wedge\dots\wedge u(k)=t(i_k))\}$$$$R\times S=\{t^{(m+n)}\mid \exists u^{(m)}\exists v^{(n)}(R(u)\wedge S(v)\wedge t(1)=u(1)\wedge\dots$$$$\wedge t(m)=u(m)\wedge t(m+1)=v(1)\wedge\dots\wedge t(m+n)=v(n))\}$$
 		- 用关系代数表示关系演算：假设有两个公式$$\varphi_1$$和$$\varphi_2$$，以公式$$\varphi_1$$作特性构造出来的元组集合对应着关系$$R_1$$，以公式$$\varphi_2$$作特性构造出来的元组集合对应着关系$$R_2$$。
 			+ $$\varphi_1\wedge\varphi_2$$：当两者有公共变元时，等价于$$R_1\Join R_2$$；当两者无公共变元时，等价于$$R_1\times R_2$$。
 			+ $$\varphi_1\vee\varphi_2$$：等价于$$R_1\cup R_2$$。
@@ -594,7 +593,6 @@ $$R(A_1,A_2,\dots, A_n)$$和$$S(B_1,B_2,\dots, B_m)$$
 				}
 			}
 		```
-```
 
 		- 申请对数据对象A的X锁：`write_lock(A)` 
 
@@ -609,7 +607,7 @@ $$R(A_1,A_2,\dots, A_n)$$和$$S(B_1,B_2,\dots, B_m)$$
 			wait ( until LOCK(A) = 'Unlocked' and the lock manager wakes up the transaction);
 			go to B;
 		}
-```
+		```
 
 		- 释放对数据对象A的封锁：`unlock(A)`
 	
@@ -626,7 +624,7 @@ $$R(A_1,A_2,\dots, A_n)$$和$$S(B_1,B_2,\dots, B_m)$$
 			wake up one of the waiting transaction, if any
 			}
 		}
-``
+		```
 
 	+ **三级封锁协议**
 		- **一级封锁协议**：事务T在写数据对象A之前，必须先申请并获得A上的X锁，并维持到事务T的执行结束(包括Commit与Rollback)才释放被加在A上的X锁。
