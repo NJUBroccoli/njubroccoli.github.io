@@ -1,6 +1,7 @@
+<center>
 
-| [Research](#research) | [Awards](#honor) | [Services](#service) | [Hobbies](#hobbies)
-| ----- | ----- | ----- | ----- |
+| [Research](#research) | [Awards](#honor) | [Services](#service) | [Hobbies](#hobbies) |
+</center>
 
 
 # Yicheng Huang (黄奕诚)
