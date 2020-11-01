@@ -645,7 +645,7 @@ void BresenhamCircle(int R) {
 	- **基函数表示**$$P(u)=P_k(2u^3-3u^2+1)+P_{k+1}(-2u^3+3u^2)+DP_k(u^3-u^2+u)+DP_{k+1}(u^3-u^2)$$也即$$P(u)=P_kH_0(u)+P_{k+1}H_1(u)+DP_kH_2(u)+DP_{k+1}H_3(u)$$混合了边界约束值（终点坐标和斜率）来得到曲线上每个坐标点位置.
 4. **Cardinal样条**
 	- 插值分段三次曲线，不一定要给出终点的切线值，**一个控制点处斜率值由两个相邻控制点坐标来计算.** 由四个连续控制点给出，中间两个是曲线段端点，另两个点用来计算终点斜率.
-	- $$P(0)=P_k;\quad P'(0)=(1-t)(P_{k+1}-P_{k-1})/2$$P(1)=P_{k+1};\quad P'(1)=(1-t)(P_{k+2}-P_k)/2$$参数$$t$$控制松紧程度，称为**张量参数**. 矩阵方程：$$P(u)=\left[\begin{matrix}u^3 & u^2 & u & 1\end{matrix}\right]\cdot\mathbf{M}_C\cdot\left[\begin{matrix}P_{k-1} \\ P_k \\ P_{k+1} \\ P_{k+2} \end{matrix}\right]$$其中$$\mathbf{M}_C=\left[\begin{matrix}-t & 2-t & t-2 & t \\ 2t & t-3 & 3-2t & -t \\ -t & 0 & t & 0 \\ 0 & 1 & 0 & 0\end{matrix}\right]$$
+	- $$P(0)=P_k;\quad P'(0)=(1-t)(P_{k+1}-P_{k-1})/2$$ $$P(1)=P_{k+1};\quad P'(1)=(1-t)(P_{k+2}-P_k)/2$$参数$$t$$控制松紧程度，称为**张量参数**. 矩阵方程：$$P(u)=\left[\begin{matrix}u^3 & u^2 & u & 1\end{matrix}\right]\cdot\mathbf{M}_C\cdot\left[\begin{matrix}P_{k-1} \\ P_k \\ P_{k+1} \\ P_{k+2} \end{matrix}\right]$$其中$$\mathbf{M}_C=\left[\begin{matrix}-t & 2-t & t-2 & t \\ 2t & t-3 & 3-2t & -t \\ -t & 0 & t & 0 \\ 0 & 1 & 0 & 0\end{matrix}\right]$$
 	- **混合函数表示**$$P(u)=P_{k-1}CAR_0(u)+P_{k}CAR_1(u)+P_{k+1}CAR_2(u)+P_{k+2}CAR_3(u)$$
 5. **Kochanek-Bartels样条**
 	- Cardinal样条的拓展.
