@@ -295,8 +295,8 @@ void BresenhamCircle(int R) {
 			- $$p_{1k} < 0\rightarrow$$选择像素位置$$(x_{k+1}, y_k)$$.
 			- $$p_{1k}\ge0\rightarrow$$选择像素位置$$(x_{k+1}, y_{k-1})$$.
 		+ **区域2算法**：决策参数$$p_{2k}=f_{ellipse}(x_k+1/2,y_{k-1})$$
-			- $$p_{2k} < 0$$\rightarrow$$选择像素位置$$(x_{k+1}, y_{k-1})$$.
-			- $$p_{2k}\ge0$$\rightarrow$$选择像素位置$$(x_{k},y_{k-1})$$.
+			- $$p_{2k} < 0\rightarrow$$选择像素位置$$(x_{k+1}, y_{k-1})$$.
+			- $$p_{2k}\ge0\rightarrow$$选择像素位置$$(x_{k},y_{k-1})$$.
 
 			
 6. **线画图元属性定义**
