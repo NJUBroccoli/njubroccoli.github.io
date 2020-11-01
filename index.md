@@ -1,5 +1,5 @@
 
-| [About](#about) | [Education](#education) | [Research](#research) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) |
+| [About](#about) | [Education](#education) | [Research](#research) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) | [Blog](https://njubroccoli.github.io/blog/) |
 
 # Yicheng Huang (黄奕诚)
 
@@ -93,3 +93,6 @@ In spare time, I developed a 3D Tower Defense Game with Unity3D, a VSCode extens
 
 Watching videos (especially Anime), working out in gyms, cooking, and walking compose most of my leisure time.
 
+## Blog
+
+I created my [blog](https://njubroccoli.github.io/blog/) at Nov. 1, 2020. Selected notes for CS course or my experience will be posted on it. 

@@ -1,3 +1,5 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 # 《并发算法与理论》期末整理
 
 ## 一、简介
