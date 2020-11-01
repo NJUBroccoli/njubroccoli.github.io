@@ -1,3 +1,6 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
 # 数据库期末复习整理（基于提纲）
 
 ## 第一章 数据库系统概述
