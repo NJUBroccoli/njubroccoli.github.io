@@ -66,9 +66,9 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 - 用途：检测可能的未定义变量
 - 数据：一个程序中的所有变量的**定值**（用位向量表示）
 - 仅考虑`D: v = x op y`这种语句，它生成了变量`v`的定值`D`，杀死了程序中所有其他定义`v`的定值。
-- transfer function：$\mathrm{OUT}[B]=gen_B\cup (\mathrm{IN}[B]-kill_B)$
-- control flow：$\mathrm{IN}[B]=\bigcup_{P\textrm{ a predecessor of }B}\mathrm{OUT}[P]$
-- 为什么可以终止？$\mathrm{OUT}[S]$ never shrinks.
+- transfer function：$$\mathrm{OUT}[B]=gen_B\cup (\mathrm{IN}[B]-kill_B)$$
+- control flow：$$\mathrm{IN}[B]=\bigcup_{P\textrm{ a predecessor of }B}\mathrm{OUT}[P]$$
+- 为什么可以终止？$$\mathrm{OUT}[S]$$ never shrinks.
 
 #### (2) 活跃变量分析
 
@@ -76,8 +76,8 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 用途：寄存器分配
 - 数据：一个程序中的所有**变量**（用位向量表示）
-- control flow：$\mathrm{IN}[B]=use_B\cup(\mathrm{OUT}[B]-def_B)$
-- transfer function：$\mathrm{OUT}[B]=\bigcup_{S\textrm{ a successor of }B}\mathrm{IN}[S]$
+- control flow：$$\mathrm{IN}[B]=use_B\cup(\mathrm{OUT}[B]-def_B)$$
+- transfer function：$$\mathrm{OUT}[B]=\bigcup_{S\textrm{ a successor of }B}\mathrm{IN}[S]$$
 - 注意：就基本块而言，use是指redefine之前的use
 
 #### (3) 可用表达式分析
@@ -86,9 +86,9 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 用途：简化表达式求值，寻找全局公共子表达式
 - 数据：一个程序中的所有**表达式**（用位向量表示）
-- transfer function：$\mathrm{OUT}[B]=gen_B\cup(\mathrm{IN}[B]-kill_B)$
-- control flow：$\mathrm{IN}[B]=\bigcap_{P\textrm{ a predecessor of }B}\mathrm{OUT}[P]$
-- 注意：初始化时，$\mathrm{OUT}[entry]=\emptyset$，但对任意非entry基本块`B`，有$\mathrm{OUT}[B]=\cup$。
+- transfer function：$$\mathrm{OUT}[B]=gen_B\cup(\mathrm{IN}[B]-kill_B)$$
+- control flow：$$\mathrm{IN}[B]=\bigcap_{P\textrm{ a predecessor of }B}\mathrm{OUT}[P]$$
+- 注意：初始化时，$$\mathrm{OUT}[entry]=\emptyset$$，但对任意非entry基本块`B`，有$$\mathrm{OUT}[B]=\cup$$。
 
 ## 4. Data Flow Analysis —— Foundations
 
@@ -96,31 +96,31 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 格（Lattice）：一个偏序是格，若它的每一对元素都有一个lub和一个glb。
 - 完全格（Complete Lattice）：格的所有子集都有一个lub和一个glb。
-  - 每个完全格有一个最大元素$\top=\sqcup\mathrm{P}$（即top）和一个最小元素$\bot=\sqcap\mathrm{P}$（即bottom）
+  - 每个完全格有一个最大元素$$\top=\sqcup\mathrm{P}$$（即top）和一个最小元素$$\bot=\sqcap\mathrm{P}$$（即bottom）
   - 每个有限的格都是一个完全格。
 - 乘积格（Product Lattice）：笛卡尔积，若每个都是完全格，则乘积格也是完全格
-- 单调性（Monotonicity）：一个函数$f: L\rightarrow L$（$L$是一个格）是单调的，若$\forall x,y\in L$，有$x\sqsubseteq y \Rightarrow f(x)\sqsubseteq f(y)$
-- 不动点定理：给定一个完全格$(L, \sqsubseteq)$，若(1)$f: L\rightarrow L$是单调的，且(2)$L$是有限的，则$f$的最小不动点可以通过迭代$f(\bot),f(f(\bot)),\dots,f^k(\bot)$直到达到一个不动点来找到，最大不动点可以通过迭代$f(\top),f(f(\top)),\dots,f^k(\top)$直到达到一个不动点来找到。
+- 单调性（Monotonicity）：一个函数$$f: L\rightarrow L$$（$$L$$是一个格）是单调的，若$$\forall x,y\in L$$，有$$x\sqsubseteq y \Rightarrow f(x)\sqsubseteq f(y)$$
+- 不动点定理：给定一个完全格$$(L, \sqsubseteq)$$，若(1)$$f: L\rightarrow L$$是单调的，且(2)$$L$$是有限的，则$$f$$的最小不动点可以通过迭代$$f(\bot),f(f(\bot)),\dots,f^k(\bot)$$直到达到一个不动点来找到，最大不动点可以通过迭代$$f(\top),f(f(\top)),\dots,f^k(\top)$$直到达到一个不动点来找到。
 
 ![image-20200620203902121](/Users/macbook/Library/Application Support/typora-user-images/image-20200620203902121.png)
 
 #### Meet-Over-All-Paths Solution（MOP）
 
-- 公式：$\mathrm{MOP}[s_i]=\mathop{\sqcup/\sqcap}\limits_{\textrm{A path }P\textrm{ from Entry to }S_i}\mathrm{F_P(OUT[Entry])}$
+- 公式：$$\mathrm{MOP}[s_i]=\mathop{\sqcup/\sqcap}\limits_{\textrm{A path }P\textrm{ from Entry to }S_i}\mathrm{F_P(OUT[Entry])}$$
 - impractical：无界限的，不可枚举的
 - not fully precise：有些路径可能不会执行
-- 当$F$是distributive的时候（即$F(x\sqcup y)=F(x)\sqcup F(y)$），MOP=Ours。位向量或Gen/Kill问题（并集交集）是distributive的。
+- 当$$F$$是distributive的时候（即$$F(x\sqcup y)=F(x)\sqcup F(y)$$），MOP=Ours。位向量或Gen/Kill问题（并集交集）是distributive的。
 
 #### 常量传播
 
 > 常量传播：给定程序点`p`处的一个变量`x`，确定`x`在`p`处是否一定有一个常量值（是什么）。
 
-- 值$V$的域：UNDEF $\rightarrow$ -2/-1/0/1/2/... $\rightarrow$ NAC
-- Meet Operator $\sqcap$
-  - NAC $\sqcap$ $v$ = NAC
-  - UNDEF $\sqcap$ $v$ = $v$
-  - $c\sqcap c = c$
-  - $c_1\sqcap c_2=\mathrm{NAC}$
+- 值$$V$$的域：UNDEF $$\rightarrow$$ -2/-1/0/1/2/... $$\rightarrow$$ NAC
+- Meet Operator $$\sqcap$$
+  - NAC $$\sqcap$$ $$v$$ = NAC
+  - UNDEF $$\sqcap$$ $$v$$ = $$v$$
+  - $$c\sqcap c = c$$
+  - $$c_1\sqcap c_2=\mathrm{NAC}$$
 - Transfer Function
   - s: x = c;        gen = {(x,c )}
   - s: x = y;        gen = {x,val(y)}
@@ -141,7 +141,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
   2. 快速类型分析（Rapid type analysis, RTA）
   3. 变量类型分析（Variable type analysis, VTA）
   4. 指针分析（Pointer analysis, k-CFA）
-- Java的方法调用：Virtual call的目标方法大于等于1（可能存在多态），在运行时才能决定。在运行时，对于$o^1.foo(\dots)^2$，$foo$的解析依赖于receiver object（即$o$的类型）以及method signature。
+- Java的方法调用：Virtual call的目标方法大于等于1（可能存在多态），在运行时才能决定。在运行时，对于$$o^1.foo(\dots)^2$$，$$foo$$的解析依赖于receiver object（即$$o$$的类型）以及method signature。
   - Signature = class type + method name + descriptor
   - Descriptor = return type + parameter types
 - 如何解析（dispatch）virtual calls？
@@ -191,11 +191,11 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 ## 7. Pointer Analysis Foundations
 
-- Points-to relations：$pt:\mathrm{Pointer}\rightarrow \mathcal{P}(O)$，其中$\mathrm{Pointer}=V\cup (O\times F)$
-- 实现核心：当$pt(x)$改变时，将改变的部分传播给$x$的相关指针。
+- Points-to relations：$$pt:\mathrm{Pointer}\rightarrow \mathcal{P}(O)$$，其中$$\mathrm{Pointer}=V\cup (O\times F)$$
+- 实现核心：当$$pt(x)$$改变时，将改变的部分传播给$$x$$的相关指针。
 
-- 解决办法：用一个图（Pointer Flow Graph, PFG）连接相关指针；当$pt(x)$改变时，将改变的部分传播给$x$的后继。
-- PFG：对于`x=y`，有边$x\leftarrow y$；对于`x.f=y`，有边$o_i.f\leftarrow y$；对于`y=x.f`，有边$y\leftarrow o_i.f$。
+- 解决办法：用一个图（Pointer Flow Graph, PFG）连接相关指针；当$$pt(x)$$改变时，将改变的部分传播给$$x$$的后继。
+- PFG：对于`x=y`，有边$$x\leftarrow y$$；对于`x.f=y`，有边$$o_i.f\leftarrow y$$；对于`y=x.f`，有边$$y\leftarrow o_i.f$$。
 - 实现：构建PFG <=> 在PFG上传播指向信息
 
 #### 若不考虑过程间
@@ -208,7 +208,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
   ![image-20200621105141420](/Users/macbook/Library/Application Support/typora-user-images/image-20200621105141420.png)
 
-  - 差分传播（Differential Propagation）的目的：避免传播和处理重复的信息，提升效率。已有的$pt(n)$中的指向信息已经被传播到$n$的后继了，无需再次传播。
+  - 差分传播（Differential Propagation）的目的：避免传播和处理重复的信息，提升效率。已有的$$pt(n)$$中的指向信息已经被传播到$$n$$的后继了，无需再次传播。
 
 #### 若考虑过程间
 
@@ -216,7 +216,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
   ![image-20200621110904124](/Users/macbook/Library/Application Support/typora-user-images/image-20200621110904124.png)
 
-  - 为什么不加边$x\rightarrow m_{this}$？这条边会为`this`变量引入spurious的指向关系。Receiver object只应该流入对应的目标方法的`this`变量中。
+  - 为什么不加边$$x\rightarrow m_{this}$$？这条边会为`this`变量引入spurious的指向关系。Receiver object只应该流入对应的目标方法的`this`变量中。
 
 - 算法
 
@@ -233,7 +233,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 #### 记号和规则
 
-- 基本上都是在C.I.的基础上加个$C$。
+- 基本上都是在C.I.的基础上加个$$C$$。
 
 - 重点是Call的规则
 
@@ -242,13 +242,13 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 #### 上下文敏感变体
 
 1. 调用点敏感（Call-site sensitivity）
-   - $\mathrm{Select}(c,l,\_)=[l',\dots,l'',l]$，其中$c=[l',\dots,l'']$
-   - k-Limiting Context Abstration：最近的$k$个调用点
+   - $$\mathrm{Select}(c,l,\_)=[l',\dots,l'',l]$$，其中$$c=[l',\dots,l'']$$
+   - k-Limiting Context Abstration：最近的$$k$$个调用点
 2. 对象敏感（Object sensitivity）
-   - 用receiver object作为上下文，$\mathrm{Select}(\_,\_,c':o_i)=[o_j,\dots,o_k,o_i]$，其中$c'=[o_j,\dots,o_k]$
+   - 用receiver object作为上下文，$$\mathrm{Select}(\_,\_,c':o_i)=[o_j,\dots,o_k,o_i]$$，其中$$c'=[o_j,\dots,o_k]$$
    - 在实际情况中，对象敏感在OO语言的表现比调用点敏感更精确、更快
 3. 类型敏感（Type sensitivity）
-   - $\mathrm{Select}(\_,\_,c':o_i)=[t',\dots,t'',\mathrm{InType}(o_i)]$，其中$c'=[t',\dots,t'']$，这里type是指包含了receiver object的分配点的类（不是receiver object的类型）。
+   - $$\mathrm{Select}(\_,\_,c':o_i)=[t',\dots,t'',\mathrm{InType}(o_i)]$$，其中$$c'=[t',\dots,t'']$$，这里type是指包含了receiver object的分配点的类（不是receiver object的类型）。
    - 一般来说，精确率方面object > type > call-site；效率方面type > object > call-site
 
 ## 9. Static Analysis for Security
@@ -259,7 +259,7 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 - 访问控制（Access control）：检查程序是否有权限访问某些信息，与信息如何**访问**有关
 - 信息流安全（Information flow security）：追踪信息流如何流经程序，以确保程序安全地处理这些信息，与信息如何**传播**有关
-- 信息流：若变量$x$中的信息（直接或间接）转移到变量$y$中，则有信息流$x\rightarrow y$。
+- 信息流：若变量$$x$$中的信息（直接或间接）转移到变量$$y$$中，则有信息流$$x\rightarrow y$$。
 
 - 将程序变量进行**分级**
 - 安全等级：最基础的是two-level policy（H，高安全性，secret infomation；L，低安全性，public observable information）。可以建模为格，L <= H
@@ -270,8 +270,8 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 #### 保密性和完整性（Confidentiality and Integrity）
 
-- 保密性：防止秘密信息被泄漏【读保护，只能$L\rightarrow H$】
-- 完整性：防止非信任的信息污染关键信息【写保护，只能$H\rightarrow L$】
+- 保密性：防止秘密信息被泄漏【读保护，只能$$L\rightarrow H$$】
+- 完整性：防止非信任的信息污染关键信息【写保护，只能$$H\rightarrow L$$】
   - 注入攻击（命令行注入、SQL注入等）
   - 正确性（信任信息不可被非信任信息污染）、完全性（一个数据库系统应该完整地存储所有数据）、一致性（一个文件传输系统应该确保两端的文件内容相同）
 
@@ -296,9 +296,9 @@ application-specific的数据如何流过控制流图的结点（基本块）和
   - 保密性：Source为秘密数据，Sink为泄漏
   - 完整性：Source为非信任数据，Sink为关键计算
 - 与指针分析结合起来
-  - tainted data $\rightarrow$ objects
-  - sources $\rightarrow$ allocation sites of tainted data
-  - 输入：source方法集合、sink方法集合；输出：污点流（$<t_j,m>$）
+  - tainted data $$\rightarrow$$ objects
+  - sources $$\rightarrow$$ allocation sites of tainted data
+  - 输入：source方法集合、sink方法集合；输出：污点流（$$<t_j,m>$$）
 
 
 
@@ -390,22 +390,22 @@ application-specific的数据如何流过控制流图的结点（基本块）和
 
 > A path is considered to connect two nodes A and B, or B is reachable from A, only if the concatenation of the labels on the edges of the path is a word in a specified context-free language.
 
-- 一条路径是一条realizable路径，当且仅当这条路径的word在语言$L(\mathit{realizable})$中。
-  - 对每个调用点$i$，分别标记它的调用边为$(_i$、返回边为$)_i$；将所有其他边标记为$e$。
-  - $\mathit{realizable}\rightarrow \mathit{matched}\quad \mathit{realizable}\mid (_i\quad \mathit{realizable}\mid \epsilon$
-  - $\mathit{matched}\rightarrow (_i\quad \mathit{matched}\quad )_i\mid e\mid \epsilon\mid \mathit{matched}\quad \mathit{matched}$
+- 一条路径是一条realizable路径，当且仅当这条路径的word在语言$$L(\mathit{realizable})$$中。
+  - 对每个调用点$$i$$，分别标记它的调用边为$$(_i$$、返回边为$$)_i$$；将所有其他边标记为$$e$$。
+  - $$\mathit{realizable}\rightarrow \mathit{matched}\quad \mathit{realizable}\mid (_i\quad \mathit{realizable}\mid \epsilon$$
+  - $$\mathit{matched}\rightarrow (_i\quad \mathit{matched}\quad )_i\mid e\mid \epsilon\mid \mathit{matched}\quad \mathit{matched}$$
 
 #### IFDS（Interprocedural, Finite, Distributive, Subset Problem）
 
-- MRP（Meet-Over-All-Realizable-Paths）：$\mathrm{MRP}_n\sqsubseteq \mathrm{MOP}_n$
+- MRP（Meet-Over-All-Realizable-Paths）：$$\mathrm{MRP}_n\sqsubseteq \mathrm{MOP}_n$$
 
-1. 给定一个程序P和一个数据流分析问题Q，为P构建一个supergraph $G^*$，基于Q为$G^*$中的边定义flow functions。
-2. 通过将flow functions转化为representation relations，为P构建一个exploded supergraph $G^\#$。
+1. 给定一个程序P和一个数据流分析问题Q，为P构建一个supergraph $$G^*$$，基于Q为$$G^*$$中的边定义flow functions。
+2. 通过将flow functions转化为representation relations，为P构建一个exploded supergraph $$G^\#$$。
 3. 通过使用Tabulation算法将Q解决为一个图可达性问题，然后找到MRP解。
 
 #### Supergraph
 
-$G^*=(N^*,E^*)$，其中$G^*$包含一系列过程内流图$G_1,G_2,\dots$，每个流图$G_p$都有一个特殊的入口结点$S_p$和一个出口结点$e_p$；一个过程调用用一个调用结点$Call_p$和一个返回结点$Ret_p$表示；过程内call-to-return-site边从$Call_p$指向$Ret_p$；过程间call-to-start边从$Call_p$指向被调用过程的$s_p$；过程间exit-to-return-site边从$e_p$指向被调用过程的$Ret_p$。
+$$G^*=(N^*,E^*)$$，其中$$G^*$$包含一系列过程内流图$$G_1,G_2,\dots$$，每个流图$$G_p$$都有一个特殊的入口结点$$S_p$$和一个出口结点$$e_p$$；一个过程调用用一个调用结点$$Call_p$$和一个返回结点$$Ret_p$$表示；过程内call-to-return-site边从$$Call_p$$指向$$Ret_p$$；过程间call-to-start边从$$Call_p$$指向被调用过程的$$s_p$$；过程间exit-to-return-site边从$$e_p$$指向被调用过程的$$Ret_p$$。
 
 - 若问题为“可能的未初始化变量”，可以用lambda表达式来定义每个边的流函数。
   - 注意点：call-to-return-site边允许传播局部信息，可从集合中剔除全局变量来减少FP;exit-to-return-site边要从集合中剔除局部变量（退栈）。
@@ -413,9 +413,9 @@ $G^*=(N^*,E^*)$，其中$G^*$包含一系列过程内流图$G_1,G_2,\dots$，每
 #### 构建Exploded Supergraph
 
 - IDEA：将流函数转化为表示关系（representation relations）
-- 若$D$为数据流facts的有限集，那么流函数可以表示为拥有$2(D+1)$个结点，最多$(D+1)^2$条边的图。
+- 若$$D$$为数据流facts的有限集，那么流函数可以表示为拥有$$2(D+1)$$个结点，最多$$(D+1)^2$$条边的图。
 - ![image-20200621155427306](/Users/macbook/Library/Application Support/typora-user-images/image-20200621155427306.png)
-- 为什么需要边$0\rightarrow 0$？
+- 为什么需要边$$0\rightarrow 0$$？
   - 如果没有这条边，每条边的表示关系就不可能被连接起来而“粘贴”到一起，就像传统流分析中流函数不能被组合在一起。IFDS无法依赖这种不连接的表示关系输出正确解。
 
 #### Tabulation算法的核心工作机理
