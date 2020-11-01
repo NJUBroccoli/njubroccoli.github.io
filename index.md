@@ -1,3 +1,8 @@
+
+| [Research](#research) | [Awards](#honor) | [Services](#service) | [Hobbies](#hobbies)
+| ----- | ----- | ----- | ----- |
+
+
 # Yicheng Huang (黄奕诚)
 
 - M.Sc. Student
@@ -18,7 +23,9 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 - Nanjing Senior High School of Jiangsu Province (2013.09 - 2016.06)
   - Received a high school diploma
 
-## Research
+<span id="research">
+<h2>Research</h2>
+</span>
 
 ### Publications
 
@@ -41,7 +48,9 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 - [Graphic Drawing Application](https://github.com/NJUBroccoli/HYC-Paint) (from NJU course: "Principle of Computer Graphics", in Java)
 - [AI System for Guandan](https://github.com/QinlinChen/guandan-ai) (corporating with Qinlin Chen and Shixuan Zhao, from NJU course: "Artificial Intelligence", in Python)
 
-## Honors and Awards
+<span id="honor">
+<h2>Honors and Awards</h2>
+</span>
 
 ### Personal Honors
 
@@ -62,7 +71,9 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 6. Third Prize in 2017 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2017年南京大学拔尖计划奖学金三等奖)
 7. Bronze Prize in 2017 Nanjing University Programming Contest (2017年南京大学程序设计竞赛铜奖)
 
-## Services and Experiences
+<span id="service">
+<h2>Services and Experiences</h2>
+</span>
 
 ### Academic
 
@@ -80,9 +91,11 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 ### Social Practices
 
 - 2018 Campus Festival of CAC Anime Club: I Participated in the Chorus of "Sakura no Ame" as a Member of the Tenor Vocal Part of the Monge Chorus
-- 2017 School-level Social Pratice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of Nine Students)
+- 2017 School-level Social Pratice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of 9 Members)
 
-## Hobbies
+<span id="hobbies">
+<h2>Hobbies</h2>
+</span>
 
 I love thinking and coding. Thanks to my course assignments, I once implemented x86 ISA and its emulator, an operating system with its own thread library and file system, a C-- compiler translated into MIPS, and a naïve graphic drawing application supporting drawing, manipulation and clipping.
 
