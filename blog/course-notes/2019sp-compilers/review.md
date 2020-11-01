@@ -45,15 +45,15 @@
 1. **功能和作用**：读入源程序的输入字符、将它们组成词素，生成并输出一个词法单元序列，输出到语法分析器中进行语法分析.
 2. **相关概念**
 	- **字母表**：有限的符号集合. 如ASCII.
-	- **串**：字母表中符号的一个有穷序列，串$$s$$的长度记为$$|s|$$.
+	- **串**：字母表中符号的一个有穷序列，串$$s$$的长度记为$$\mid s\mid $$.
 	- **语言**：某个给定字母表上一个任意的可数的串集合.
 	- 串的（真）前缀、（真）后缀、（真）子串、子序列.
 	- 语言的闭包、Kleene闭包和正闭包.
 3. **正则表达式及其描述的语言**
 	- 字母表$$\Sigma$$上的正则表达式的递归定义
 		+ 归纳基础：$$\epsilon$$是一个正则表达式，$$L(\epsilon)=\{\epsilon\}$$. 若$$a$$是$$\Sigma$$上的一个符号，则$$\mathbf{a}$$是正则表达式并且$$L(\mathbf{a})=\{a\}$$.
-		+ 归纳步骤：假设$$r,s$$都是正则表达式，分别表示语言$$L(r)$$和$$L(s)$$，则：$$(r) | (s)$$、$$(r)(s)$$、$$(r)^*$$、$$(r)$$都是正则表达式，分别表示语言$$L(r)\cup L(s)$$、$$L(r)L(s)$$、$$(L(r))^*$$、$$L(r)$$.
-		+ 规定优先级：$$*>$$连接$$>|$$，并且都是左结合，可丢掉一些括号.
+		+ 归纳步骤：假设$$r,s$$都是正则表达式，分别表示语言$$L(r)$$和$$L(s)$$，则：$$(r)\mid (s)$$、$$(r)(s)$$、$$(r)^*$$、$$(r)$$都是正则表达式，分别表示语言$$L(r)\cup L(s)$$、$$L(r)L(s)$$、$$(L(r))^*$$、$$L(r)$$.
+		+ 规定优先级：$$*>$$连接$$>\mid$$，并且都是左结合，可丢掉一些括号.
 	- **正则定义**：具有如下形式的定义序列：$$d_1\rightarrow r_1, d_2\rightarrow r_2, \dots, d_n\rightarrow r_n$$. 其中每个$$d_i$$都是新符号，它们不在$$\Sigma$$中且各不相同. 每个$$r_i$$是$$\Sigma\cup\{d_1,d_2,\dots,d_{i-1}\}$$上的正则表达式.
 	- 扩展：一个或多个实例`+`；零个或一个实例`?`；字符类$$[a_1a_2\dots a_n]$$.
 4. **状态转换图**
@@ -122,7 +122,7 @@
 			
 			![](2.png)
 		
-		+ 归纳规则：假设正则表达式$$s,t$$的NFA分别为$$N(s),N(t)$$. 对于$$r=s|t$$，$$N(r)$$可如下构造
+		+ 归纳规则：假设正则表达式$$s,t$$的NFA分别为$$N(s),N(t)$$. 对于$$r=s\midt$$，$$N(r)$$可如下构造
 
 			![](3.png)
 			
@@ -177,7 +177,7 @@
 
 			![](36.png)
 		
-	- **提取左公因子**：对文法$$G$$中每个非终结符号$$A$$，找出它的两个或多个选项之间的最长公共前缀$$\alpha$$. 若$$\alpha\neq\epsilon$$，则存在一个非平凡的公共前缀，于是将所有$$A\rightarrow\alpha\beta_1\mid\alpha\beta_2\mid\cdots\alpha\beta_n\mid\gamma$$替换为$$$$A\rightarrow\alpha A'\mid\gamma$$$$$$$$A'\rightarrow\beta_1\mid\beta_2\mid\cdots\mid\beta_n$$$$
+	- **提取左公因子**：对文法$$G$$中每个非终结符号$$A$$，找出它的两个或多个选项之间的最长公共前缀$$\alpha$$. 若$$\alpha\neq\epsilon$$，则存在一个非平凡的公共前缀，于是将所有$$A\rightarrow\alpha\beta_1\mid\alpha\beta_2\mid\cdots\alpha\beta_n\mid\gamma$$替换为$$A\rightarrow\alpha A'\mid\gamma$$A'\rightarrow\beta_1\mid\beta_2\mid\cdots\mid\beta_n$$
 
 6. **自顶向下分析技术**
 	- **递归下降的语法分析**：可能需要回溯（重复扫描输入）
@@ -186,7 +186,7 @@
 		
 	- **预测分析**
 		+ **$$FIRST(\alpha)$$**：可从$$\alpha$$推导得到的串的首符号的集合.（可以包含$$\epsilon$$）
-		+ **$$FOLLOW(A)$$**：可能在某些句型中紧跟在$$A$$右边的终结符号的集合.（最右符号$$A$$的$$FOLLOW(A)$$中包含$$\$$$$.
+		+ **$$FOLLOW(A)$$**：可能在某些句型中紧跟在$$A$$右边的终结符号的集合.（最右符号$$A$$的$$FOLLOW(A)$$中包含$$\$$.
 		+ **计算$$FIRST$$**：对于任何串$$X_1X_2\cdot X_n$$，先向$$FIRST(X_1X_2\cdot X_n)$$加入$$FIRST(X_1)$$中所有的非$$\epsilon$$符号，若$$\epsilon\in FIRST(X_1)$$，则继续加入$$FIRST(X_2)$$中所有的非$$\epsilon$$符号，如此往复.
 		+ **计算$$FOLLOW$$**
 		
@@ -195,7 +195,7 @@
 			- 若存在$$A\rightarrow\alpha B$$，或$$A\rightarrow\alpha B\beta$$且$$\epsilon\in FIRST(\beta)$$，则$$FOLLOW(A)\subseteq FOLLOW(B)$$.
 		+ **预测分析表**：输入为文法$$G$$，输出为预测分析表$$M$$. 对于$$G$$中每个$$A\rightarrow\alpha$$，如下处理：
 			- 对于$$FIRST(\alpha)$$中的每个终结符号$$a$$，将$$A\rightarrow\alpha$$加入到$$M[A,a]$$中.
-			- 若$$\epsilon\in FIRST(\alpha)$$，则对于$$FOLLOW(A)$$中的每个终结符号$$b$$（包括$$\$$$$），将$$A\rightarrow\alpha$$加入到$$M[A,B]$$中.
+			- 若$$\epsilon\in FIRST(\alpha)$$，则对于$$FOLLOW(A)$$中的每个终结符号$$b$$（包括$$\$$），将$$A\rightarrow\alpha$$加入到$$M[A,B]$$中.
 			- 完成上述操作后，若$$M[A,a]$$中没有产生式，则将$$M[A,a]$$设置为**error**（空条目）.  
 			**如果$$G$$是左递归的或二义性的，那么$$M$$至少包含一个多重定义的条目.**
 		+ **表驱动的预测语法分析**
@@ -216,8 +216,8 @@
 		+ **归约**：一个与某产生式体匹配的特定子串被替换为该产生式头的非终结符号.
 		+ **句柄**：若有$$S\underset{rm}{\stackrel{*}{\Rightarrow}}\alpha Aw\underset{rm}{\Rightarrow}\alpha\beta w$$，则紧跟$$\alpha$$的产生式$$A\rightarrow\beta$$是$$\alpha\beta w$$的一个句柄. 为方便起见，把产生式体$$\beta$$称为一个句柄. **如果一个文法无二义性，则该文法的每个最右句型有且只有一个句柄.**
 		+ **移入-归约语法分析器**
-			- 初始状态：栈（$$\$$$$）；输入（$$w\$$$$）
-			- 接受状态：栈（$$\$$S$$）；输入（$$\$$$$）
+			- 初始状态：栈（$$\$$）；输入（$$w\$$）
+			- 接受状态：栈（$$\$$S$$）；输入（$$\$$）
 			- 四种可能动作：移入（将下一个符号移到栈顶）；归约（被归约的符号串右端必然是栈顶）；接受；报错.
 
 			![](7.png)
@@ -234,15 +234,15 @@
 		+ **LR语法分析算法**
 			- **LR语法分析表**：两个部分——语法分析动作函数ACTION和转换函数GOTO. 前者参数为状态$$i$$和终结符号$$a$$，取值有四种形式：移入状态$$j$$、归约$$A\rightarrow\beta$$、接受、报错.
 			- **格局**：形如$$(s_0s_1\cdots s_m, a_ia_{i+1}\cdots a_n\quad\$$)$$的对，第一个分量为栈中内容（存储状态），第二个分量为余下的输入.
-			- **算法**：最初栈中内容为初始状态$$s_0$$，输入缓冲区中内容为$$w\$$$$. 反复执行两个函数定义的行为即可.
+			- **算法**：最初栈中内容为初始状态$$s_0$$，输入缓冲区中内容为$$w\$$. 反复执行两个函数定义的行为即可.
 	- **构造SLR(1)语法分析表**（需要知道输入文法的每个非终结符号$$A$$的FOLLOW($$A$$)）
 		+ 输入：一个增广文法$$G'$$.
 		+ 输出：$$G'$$的SLR语法分析表函数ACTION和GOTO
 		+ 方法：构造$$G'$$的规范LR(0)项集族$$C=\{I_0,I_1,\cdots,I_n\}$$. 根据$$I_j$$构造得到状态$$i$$. 决定$$ACTION[i, a]$$——若$$[A\rightarrow\alpha\cdot a\beta]$$在$$I_j$$中并且$$GOTO(I_j, a) = I_j$$，置为“移入$$j$$“；若$$[A\rightarrow\alpha\cdot]$$在$$I_i$$中，则对$$FOLLOW(A)$$中的所有$$a$$，置为“归约$$A\rightarrow\alpha$$“. 若$$[S'\rightarrow S\cdot]$$中，置为“接受”. 决定$$GOTO$$——若$$GOTO(I_i,A)=I_j$$，则$$GOTO[i,A]=j$$.
 		+ 若规则生成了任何冲突动作，则称该文法不是**SLR(1)**的.
 	- **规范LR(1)语法分析器**
-		+ **规范LR(1)项**：$$[A\rightarrow\alpha\cdot\beta,a]$$，其中$$A\rightarrow\alpha\beta$$是一个产生式，$$a$$是一个终结符号或右端结束标记$$\$$$$. 一个形如$$[A\rightarrow\alpha\cdot,a]$$的项只有在下一个输入符号等于$$a$$时才要求按照$$A\rightarrow\alpha$$进行归约.
-		+ **LR(1)项的可行前缀**：LR(1)项$$[A\rightarrow\alpha\cdot\beta,a]$$对于一个可行前缀$$\gamma$$有效的条件是存在一个推导$$S\underset{rm}{\stackrel{*}{\Rightarrow}}\delta Aw\underset{rm}{\Rightarrow}\delta\alpha\beta w$$，其中$$\gamma=\delta\alpha$$且要么$$a$$是$$w$$的第一个符号，要么$$w$$为$$\epsilon$$且$$a$$等于$$\$$$$.
+		+ **规范LR(1)项**：$$[A\rightarrow\alpha\cdot\beta,a]$$，其中$$A\rightarrow\alpha\beta$$是一个产生式，$$a$$是一个终结符号或右端结束标记$$\$$$. 一个形如$$[A\rightarrow\alpha\cdot,a]$$的项只有在下一个输入符号等于$$a$$时才要求按照$$A\rightarrow\alpha$$进行归约.
+		+ **LR(1)项的可行前缀**：LR(1)项$$[A\rightarrow\alpha\cdot\beta,a]$$对于一个可行前缀$$\gamma$$有效的条件是存在一个推导$$S\underset{rm}{\stackrel{*}{\Rightarrow}}\delta Aw\underset{rm}{\Rightarrow}\delta\alpha\beta w$$，其中$$\gamma=\delta\alpha$$且要么$$a$$是$$w$$的第一个符号，要么$$w$$为$$\epsilon$$且$$a$$等于$$\$$.
 		+ **LR(1)项集族的构造**：修改两个过程$$CLOSURE$$和$$GOTO$$. 前者为对于$$I$$中每个项$$[A\rightarrow\alpha\cdot B\beta,a]$$，对于$$G'$$中每个产生式$$B\rightarrow\gamma$$，对于$$FIRST(\beta a)$$中每个终结符号$$b$$，将$$[B\rightarrow\cdot\gamma,b]$$加入到集合$$I$$中. 后者对于$$I$$中每个项$$[A\rightarrow\alpha\cdot X\beta,a]$$，将项$$[A\rightarrow\alpha X\cdot\beta,a]$$加入到集合$$J$$中.
 		+ **规范LR(1)语法分析表**：类似于LR(0)语法分析表（例如书P170，注意“归约”填充项的不同）
 	- **LALR分析**：寻找具有相同**核心**的LR(1)项集，并将这些项集合并为一个项集. 一般而言，核心就是当前正处理的文法的LR(0)项集.
@@ -305,7 +305,7 @@
 	
 	- **从SDT中消除左递归**
 		+ 最简单的情况，如果每个动作仅仅是打印一个字符串：将动作当成终结符号处理，将$$A\rightarrow A\alpha\mid\beta$$替换为$$A\rightarrow\beta R,\quad R\rightarrow\alpha R\mid\epsilon$$.
-		+ 对于S属性的SDD，消除左递归通用的框架：将$$$$\begin{align*} & A \rightarrow A_1Y & \{A.a=g(A_1.a,Y.y)\} \\ & A \rightarrow X & \{A.a=f(X.x)\} \end{align*}$$$$ 转化为$$$$A\quad\rightarrow\quad X\quad \{R.i=f(X.x)\}\quad R\quad \{ A.a=R.s\}$$$$ $$$$R\quad\rightarrow\quad Y\quad \{ R_1.i=g(R.i,Y.y)\}\quad R_1\quad \{ R.s=R_1.s\}$$$$ $$$$R\quad\rightarrow\quad\epsilon\quad \{ R.s=R.i\}$$$$
+		+ 对于S属性的SDD，消除左递归通用的框架：将$$\begin{align*} & A \rightarrow A_1Y & \{A.a=g(A_1.a,Y.y)\} \\ & A \rightarrow X & \{A.a=f(X.x)\} \end{align*}$$ 转化为$$A\quad\rightarrow\quad X\quad \{R.i=f(X.x)\}\quad R\quad \{ A.a=R.s\}$$ $$R\quad\rightarrow\quad Y\quad \{ R_1.i=g(R.i,Y.y)\}\quad R_1\quad \{ R.s=R_1.s\}$$ $$R\quad\rightarrow\quad\epsilon\quad \{ R.s=R.i\}$$
 	
 	- **L属性定义的SDT**
 		1. 把计算某个非终结符号$$A$$的继承属性的动作插入到产生式体中紧靠在$$A$$的本次出现之前的位置上，如果$$A$$的多个继承属性以无环的方式相互依赖，就需要对这些属性的求值动作进行排序，以便先计算需要的属性.
@@ -377,8 +377,8 @@
 		
 	- **数组元素的寻址**
 		+ 假设：数组元素存储在一块连续的存储空间里，可以快速访问.
-		+ 一种方法：对于$$k$$维数组$$A[i_1][i_2]\cdots[i_k]$$，若$$w_i$$表示从左往右第$$i$$维的宽度为$$w_i$$，则相对地址为$$$$base+i_1\times w_1+i_2\times w_2+\cdots+i_k\times w_k$$$$
-		+ **另一种方法**：根据第$$j$$维上的数组元素的个数$$n_j$$和该数组的每个元素的宽度$$w=w_k$$进行计算. 对于$$k$$维数组，即为$$$$base+((\cdots((i_1\times n_2 + i_2)\times n_3+i_3)\cdots)\times n_k+i_k)\times w$$$$
+		+ 一种方法：对于$$k$$维数组$$A[i_1][i_2]\cdots[i_k]$$，若$$w_i$$表示从左往右第$$i$$维的宽度为$$w_i$$，则相对地址为$$base+i_1\times w_1+i_2\times w_2+\cdots+i_k\times w_k$$
+		+ **另一种方法**：根据第$$j$$维上的数组元素的个数$$n_j$$和该数组的每个元素的宽度$$w=w_k$$进行计算. 对于$$k$$维数组，即为$$base+((\cdots((i_1\times n_2 + i_2)\times n_3+i_3)\cdots)\times n_k+i_k)\times w$$
 		+ **更一般的情况**：数组元素下标不从0开始，数组元素的编号方式为$$low,low+1,\cdots,high$$. 则$$A[i]$$的地址为$$base+(i-low)\times w$$.
 		+ **二维数组的存储方式**
 			- 按行存放
@@ -791,7 +791,7 @@
 		+ **全局寄存器分配**：分配固定多个寄存器存放每个内部循环中最活跃的值.
 		+ **使用计数**【书中例子的b的值存疑】
 			- 在一个循环$$L$$中，如果把$$x$$放在寄存器中，每一次引用可以节省一个单位成本；如果在某个基本块的结尾不把$$x$$保存回内存，可以省略两个单位的开销。即如果$$x$$被分配在某个寄存器中，对于每个向$$x$$赋值且$$x$$在其出口处活跃的基本块，可以节省两个单位的开销；进入循环和离开循环的支出成本可以忽略.
-			- 在循环$$L$$中把一个寄存器分配给$$x$$所得好处的估算公式：$$$$\sum_{L\textrm{中的全部基本块}B}use(x,B) + 2 * live(x, B)$$$$其中$$use(x,B)$$是$$x$$在$$B$$中被定值前使用的次数. 若$$x$$在$$B$$的出口处活跃并在$$B$$中被赋予一个值，则$$live(x,B)$$取1，否则取0.
+			- 在循环$$L$$中把一个寄存器分配给$$x$$所得好处的估算公式：$$\sum_{L\textrm{中的全部基本块}B}use(x,B) + 2 * live(x, B)$$其中$$use(x,B)$$是$$x$$在$$B$$中被定值前使用的次数. 若$$x$$在$$B$$的出口处活跃并在$$B$$中被赋予一个值，则$$live(x,B)$$取1，否则取0.
 	
 	- **通过树重写来选择指令**
 		+ **树翻译方案**
@@ -851,9 +851,9 @@
 	- **到达定值**
 		+ 传递方程
 			- 对于单个定值$$d$$来说，$$f_d(x)=gen_d\cup(x-kill_d)$$. 其中$$gen_d=\{d\}$$，即由这个语句生成的定值的集合. $$kill_d$$是程序中所有其他对$$u$$的定值.
-			- 对于基本块$$$$f_B(x) = gen_B\cup(x - kill_B)$$$$ $$$$kill_B = kill_1\cup kill_2\cup \cdots\ cup kill_n$$$$ $$$$gen_B = gen_n\cup(gen_{n-1}-kill_n)\cup (gen_{n-2}-kill_{n-1}-kill_n)\cup$$$$$$$$\cdots\cup (gen_1-kill_2-kill_3-\cdots-kill_n)$$$$
+			- 对于基本块$$f_B(x) = gen_B\cup(x - kill_B)$$ $$kill_B = kill_1\cup kill_2\cup \cdots\ cup kill_n$$ $$gen_B = gen_n\cup(gen_{n-1}-kill_n)\cup (gen_{n-2}-kill_{n-1}-kill_n)\cup$$\cdots\cup (gen_1-kill_2-kill_3-\cdots-kill_n)$$
 			- $$OUT[B] = gen_B\cup(IN[B] - kill_B)$$
-		+ 控制流方程 $$$$IN[B]=\cup_{P\textrm{是}B\textrm{的一个前驱基本块}}\qquad OUT[P]$$$$并集运算称为到达定值的**交汇运算**.
+		+ 控制流方程 $$IN[B]=\cup_{P\textrm{是}B\textrm{的一个前驱基本块}}\qquad OUT[P]$$并集运算称为到达定值的**交汇运算**.
 		+ 边界条件：$$OUT[ENTRY] = \emptyset$$.
 		+ 到达定值的迭代算法
 			- 输入：一个流图，其中每个基本块$$B$$的$$kill_B$$集和$$gen_B$$集都已经计算出来.

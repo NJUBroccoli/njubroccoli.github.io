@@ -9,7 +9,7 @@
 	+ Liveness Properties：好事总会发生
 - 互斥（Mutual Exclusion）：Both not in simultaneously（Safety）
 - 无死锁（No Deadlock）：If one wants in, it gets in; If both want in, one gets in.（Liveness）
-- Amdahl's Law：$$p$$表示并发成分比例，$$n$$表示处理器个数. $$$$Speedup = \frac{1}{1-p+\frac{p}{n}}$$$$
+- Amdahl's Law：$$p$$表示并发成分比例，$$n$$表示处理器个数. $$Speedup = \frac{1}{1-p+\frac{p}{n}}$$
 
 ## 二、互斥
 
@@ -71,7 +71,7 @@
 
 - **Linearizability（可线性化）**：若$$H$$可通过为pending invocations增添responses或将其删去来扩展到$$G$$，$$G$$与某个legal sequential history $$S$$等价，且$$\rightarrow_G\subset\rightarrow_S$$（仅允许重新排序不同线程间的操作），则$$H$$可线性化.
 
-- 可组合性定理（Composability Theorem）：一个历史$$H$$可线性化当且仅当对于每个对象$$x$$，都有$$H|x$$可线性化.
+- 可组合性定理（Composability Theorem）：一个历史$$H$$可线性化当且仅当对于每个对象$$x$$，都有$$H\mid x$$可线性化.
 - 基于锁的并发对象的Linearization point是锁被释放的瞬间. 对于仅有一个enqueuer和一个dequeuer时，Linearization point是`head`和`tail`被修改的瞬间.
 
 ### 2. 串行一致性
