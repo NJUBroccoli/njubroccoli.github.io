@@ -1,5 +1,5 @@
 
-| [About](#about) | [Education](#education) | [Research](#research) | [Honors and Awards](#honors-and-awards) | [Services and Experiences](#services-and-experiences) | [Hobbies](#hobbies) |
+| [About](#about) | [Education](#education) | [Research](#research) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) |
 
 # Yicheng Huang (黄奕诚)
 
