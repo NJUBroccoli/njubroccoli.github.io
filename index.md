@@ -10,7 +10,7 @@
 
 ## About
 
-I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests include but are not limited to end-user programming (especially spreadsheets), program synthesis, and program analysis. I desire to free the programmers and end users around the world (including me) from dirty mechanical work and annoying bugs. Instead, we should embrace reliable automation and creativity, which is the spirit of human wisdom.
+I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests include but are not limited to program synthesis, program analysis, and software reliability. I desire to help free the programmers and end users around the world (including me) from dirty mechanical work and annoying bugs. Instead, we should take advantage of human wisdom and reliable automation to make our daily life easier and happier!
 
 ## Education
 
@@ -37,6 +37,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 #### Selected Course Projects:
 
+- [Raft Consensus Algorithm](https://github.com/NJUBroccoli/raft-impl) (from NJU course: "Distributed System", in Golang)
 - [x86 Full System Emulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from NJU course: "Introduction to Computer Systems", in C)
 - [Mini Operating System Kernel](https://github.com/NJUBroccoli/oslab) (from NJU course: "Operating Systems", in C)
 - [CMM Compiler](https://github.com/NJUBroccoli/HYCompiler) (from NJU course: "Principles and Techniques of Compiler", in C)
