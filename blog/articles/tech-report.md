@@ -1,7 +1,7 @@
 ## How to Make A Good Technical Report?
 
 - Reporting is just like telling story. The requirements of research work are consistent with the requirements of storytelling.
-  + **Significance:** Why do you must tell this story? Why should I listen to it?
+  + **Significance:** Why must you tell this story? Why should I listen to it?
   + **Novelty:** Is your story itself interesting? Had anyone already told it?
   + **Presentation:** Can you make me understand your story and also feel interesting?
 
