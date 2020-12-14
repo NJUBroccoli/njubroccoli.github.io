@@ -1,8 +1,8 @@
 ## How to Make A Good Technical Report?
 
 - Reporting is just like telling story. The requirements of research work are consistent with the requirements of storytelling.
-  + **Significance:** Why do you tell this story? Why should I listen to it?
-  + **Novelty:** Is your story itself interesting?
+  + **Significance:** Why do you must tell this story? Why should I listen to it?
+  + **Novelty:** Is your story itself interesting? Had anyone already told it?
   + **Presentation:** Can you make me understand your story and also feel interesting?
 
 ### Design of Report
@@ -20,7 +20,7 @@
 ### Slides
 
 In your slides, the following points need to be well done.
-- **Logic Chain:** The logic chain is the core of a report. 
+- **Logic Chain:** The logic chain is the core of a report. A report without logic is a story filled with boring themes, chaotic plots, and meaningless characters.
   + Delete anything unnecessary to the logic chain.
   + Everything should be *well motivated*, including your research topic, problem scope, idea/insight, design choice, and experimental design. "Others are doing it so I am doing it" is a bad motivation.
 - **Intuition:** Make your audience quickly develop an intuition about anything you report. Learn to use examples and diagrams.
