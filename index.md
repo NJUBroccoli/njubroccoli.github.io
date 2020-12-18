@@ -49,12 +49,13 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Personal Honors
 
-1. 2020 Outstanding Graduates of Nanjing University (2020年南京大学优秀毕业生)
-2. 2018-2019 Outstanding Student Cadre Pacesetters of Nanjing University (2018-2019年度南京大学优秀学生干部标兵)
-3. 2018 Outstanding Communist Youth League Cadres of Nanjing University (2018年南京大学优秀共青团干部)
-4. 2017 Outstanding Communist Youth League Members of Nanjing University (2017年南京大学优秀共青团员)
-5. 2016-2017 Outstanding Students of Nanjing University (2016-2017年度南京大学优秀学生)
-6. 2016-2017 Department Stars of Nanjing University Student Association Union (2016-2017年度南京大学学生社团联合会部门之星)
+1. 2020 Outstanding Postgraduates of Nanjing University (2020年南京大学优秀研究生)
+2. 2020 Outstanding Graduates of Nanjing University (2020年南京大学优秀毕业生)
+3. 2018-2019 Outstanding Student Cadre Pacesetters of Nanjing University (2018-2019年度南京大学优秀学生干部标兵)
+4. 2018 Outstanding Communist Youth League Cadres of Nanjing University (2018年南京大学优秀共青团干部)
+5. 2017 Outstanding Communist Youth League Members of Nanjing University (2017年南京大学优秀共青团员)
+6. 2016-2017 Outstanding Students of Nanjing University (2016-2017年度南京大学优秀学生)
+7. 2016-2017 Department Stars of Nanjing University Student Association Union (2016-2017年度南京大学学生社团联合会部门之星)
 
 ### Awards on Scholarships and Contests
 
