@@ -29,19 +29,20 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Personal Honors
 
-1. 2020 Outstanding Postgraduates of Nanjing University (2020年南京大学优秀研究生)
-2. 2020 Outstanding Graduates of Nanjing University (2020届南京大学优秀毕业生)
-3. 2018 Outstanding Communist Youth League Cadres of Nanjing University (2018年度南京大学优秀共青团干部)
-4. 2017-2018 Outstanding Student Cadre Pacesetters of Nanjing University (2017-2018学年南京大学优秀学生干部标兵)
-5. 2016-2017 Outstanding Communist Youth League Members of Nanjing University (2016-2017年度南京大学优秀共青团员)
-6. 2016-2017 Outstanding Students of Nanjing University (2016-2017学年度南京大学优秀学生)
-7. 2016-2017 Department Stars of Nanjing University Student Association Union (2016-2017学年南京大学学生社团联合会部门之星)
+1. 2020 Outstanding Postgraduates of Nanjing University (南京大学2020年优秀研究生)
+2. 2020 Outstanding Postgraduates of Institute of Computer Software, Nanjing University (南京大学计算机软件研究所2020年度优秀研究生)
+3. 2020 Outstanding Graduates of Nanjing University (南京大学2020届优秀毕业生)
+4. 2018 Outstanding Communist Youth League Cadres of Nanjing University (南京大学2018年度优秀共青团干部)
+5. 2017-2018 Outstanding Student Cadre Pacesetters of Nanjing University (南京大学2017-2018学年优秀学生干部标兵)
+6. 2016-2017 Outstanding Communist Youth League Members of Nanjing University (南京大学2016-2017年度优秀共青团员)
+7. 2016-2017 Outstanding Students of Nanjing University (南京大学2016-2017学年度优秀学生)
+8. 2016-2017 Department Stars of Nanjing University Student Association Union (南京大学学生社团联合会2016-2017学年部门之星)
 
 ### Awards on Scholarships and Contests
 
 1. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
 2. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
-3. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM) (2018年美国大学生交叉建模竞赛M奖)
+3. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM), with Yunzhi Lu and Chang Gu (2018年美国大学生交叉建模竞赛M奖)
 4. First Place in 2018 HKUST-NJU Academic Competition (Computer Science), with Qinlin Chen and Shixuan Zhao (2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名)
 5. Second Prize in 2018 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2018年南京大学拔尖计划奖学金二等奖)
 6. Third Prize in 2017 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2017年南京大学拔尖计划奖学金三等奖)
