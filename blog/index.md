@@ -1,4 +1,4 @@
-| [About](https://njubroccoli.github.io/#about) | [Education](https://njubroccoli.github.io/#education) | [Research](https://njubroccoli.github.io/#research) | [Awards](https://njubroccoli.github.io/#honors-and-awards) | [Services](https://njubroccoli.github.io/#services-and-experiences) | [Blog](https://njubroccoli.github.io/blog/) |
+| [About](https://njubroccoli.github.io/#about) | [Education](https://njubroccoli.github.io/#education) | [Awards](https://njubroccoli.github.io/#honors-and-awards) | [Services](https://njubroccoli.github.io/#services-and-experiences) | [Research](https://njubroccoli.github.io/#research) | [Blog](https://njubroccoli.github.io/blog/) |
 
 # Yicheng's Blog
 

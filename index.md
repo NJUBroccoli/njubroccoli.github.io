@@ -1,16 +1,16 @@
 
-| [About](#about) | [Education](#education) | [Research](#research) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) | [Blog](https://njubroccoli.github.io/blog/) |
+| [About](#about) | [Education](#education) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) | [Research](#research) | [Blog](https://njubroccoli.github.io/blog/) | [中文版主页](https://njubroccoli.github.io/zh-cn/) |
 
 # Yicheng Huang (黄奕诚)
 
-- M.Sc. Student
+- M.Sc. Student (Computer Science)
 - <a href="mailto:njuhuangyc@outlook.com">njuhuangyc@outlook.com</a>
 - <a href="http://ics.nju.edu.cn/spar/">SPAR</a> Group, Institute of Computer Software, Department of Computer Science and Technology, Nanjing University
 - Office: Room 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
 
 ## About
 
-I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests include but are not limited to program synthesis, program analysis, and software reliability. I desire to help free the programmers and end users around the world (including me) from dirty mechanical work and annoying bugs. Instead, we should take advantage of human wisdom and reliable automation to make our daily life easier and happier!
+I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. Now my research interests are program synthesis, program analysis, and software reliability.
 
 ## Education
 
@@ -18,44 +18,24 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
   - Studying for an M.Sc. Degree in Computer Science and Technology
 - Department of Computer Science and Technology, Nanjing University (2016.09 - 2020.07)
   - Received a B.Sc. Degree in Computer Science and Technology
-- Nanjing Senior High School of Jiangsu Province (2013.09 - 2016.06)
+- Science Intensive Class, Nanjing Senior High School of Jiangsu Province (2013.09 - 2016.06)
   - Received a high school diploma
-
-## Research
-
-### Publications
-
-1. Yicheng Huang, Chang Xu, Yanyan Jiang, Huiyan Wang, and Da Li, "WARDER: Towards Effective Spreadsheet Defect Detection by Validity-based Cell Cluster Refinements", Journal of Systems and Software (JSS), Volume 167, 2020, 110615. <a href="https://doi.org/10.1016/j.jss.2020.110615">[WEB]</a> <a href="https://njubroccoli.github.io/publications/huang_2020_warder.pdf">[PDF]</a>
-
-### Projects
-
-#### National Innovation Projects for Undergraduates:
-
-- Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
-  - Project leader, corporating with [Qinlin Chen](https://qinlinchen.github.io/), advised by Prof. [Chang Xu](https://cs.nju.edu.cn/changxu/)
-  - Rated as "Excellent" in the final defense
-
-#### Selected Course Projects:
-
-- [Raft Consensus Algorithm](https://github.com/NJUBroccoli/raft-impl) (from NJU course: "Distributed System", in Golang)
-- [x86 Full System Emulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from NJU course: "Introduction to Computer Systems", in C)
-- [Mini Operating System Kernel](https://github.com/NJUBroccoli/oslab) (from NJU course: "Operating Systems", in C)
-- [CMM Compiler](https://github.com/NJUBroccoli/HYCompiler) (from NJU course: "Principles and Techniques of Compiler", in C)
-- Sudoku Game System (from NJU course: "Problem Solving (I)", in C++)
-- [Graphic Drawing Application](https://github.com/NJUBroccoli/HYC-Paint) (from NJU course: "Principle of Computer Graphics", in Java)
-- [AI System for Guandan](https://github.com/QinlinChen/guandan-ai) (corporating with Qinlin Chen and Shixuan Zhao, from NJU course: "Artificial Intelligence", in Python)
+- Jiangyin Changshan Middle School (2010.09 - 2013.06)
+  - Received a junior middle school diploma
+- Changshan Central Primary School, Jiangyin High Tech Zone (2004.09 - 2010.06)
+  - Received a primary school diploma
 
 ## Honors and Awards
 
 ### Personal Honors
 
 1. 2020 Outstanding Postgraduates of Nanjing University (2020年南京大学优秀研究生)
-2. 2020 Outstanding Graduates of Nanjing University (2020年南京大学优秀毕业生)
-3. 2018-2019 Outstanding Student Cadre Pacesetters of Nanjing University (2018-2019年度南京大学优秀学生干部标兵)
-4. 2018 Outstanding Communist Youth League Cadres of Nanjing University (2018年南京大学优秀共青团干部)
-5. 2017 Outstanding Communist Youth League Members of Nanjing University (2017年南京大学优秀共青团员)
-6. 2016-2017 Outstanding Students of Nanjing University (2016-2017年度南京大学优秀学生)
-7. 2016-2017 Department Stars of Nanjing University Student Association Union (2016-2017年度南京大学学生社团联合会部门之星)
+2. 2020 Outstanding Graduates of Nanjing University (2020届南京大学优秀毕业生)
+3. 2018 Outstanding Communist Youth League Cadres of Nanjing University (2018年度南京大学优秀共青团干部)
+4. 2017-2018 Outstanding Student Cadre Pacesetters of Nanjing University (2017-2018学年南京大学优秀学生干部标兵)
+5. 2016-2017 Outstanding Communist Youth League Members of Nanjing University (2016-2017年度南京大学优秀共青团员)
+6. 2016-2017 Outstanding Students of Nanjing University (2016-2017学年度南京大学优秀学生)
+7. 2016-2017 Department Stars of Nanjing University Student Association Union (2016-2017学年南京大学学生社团联合会部门之星)
 
 ### Awards on Scholarships and Contests
 
@@ -72,28 +52,48 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 ### Academic
 
 - Teaching Assistant: <a href="https://nju-sicp.bitbucket.io">"Structure and Interpretation of Computer Programs"</a>, Department of Computer Science and Technology, Nanjing University, Fall 2020.
-- Attending Conferences: CNCC'17 (Fuzhou, China), PLDI'20 (online), NASAC'20 (Chongqing, China).
+- Attending Conferences: CNCC'17 (Fuzhou, China), PLDI'20 (online), Chinasoft'20 (Chongqing, China).
 - Academic Exchanges in Four Universities (HKU, CUHK, HKUST, and PolyU) in Hong Kong (Organized by Department of Computer Science and Technology, Nanjing University) in Feb. 2018
 
 ### Student Affairs
 
+- Member of Activity Department, Graduate Association of Department of Computer Science and Technology, Nanjing University (from Mar. 2021)
 - Representative of the 24th Student Congress of Nanjing University (Jul. 2020)
-- Monitor of Elite Program Class, Grade 2016, Department of Computer Science and Technology, Nanjing Univeristy (from Sep. 2016 to Jul. 2020)
+- Monitor & Deputy Secretary of Youth League Branch, Elite Program Class, Grade 2016, Department of Computer Science and Technology, Nanjing University (from Sep. 2016 to Jul. 2020)
 - Assistant of Student Affairs Office, Department of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
-- Office Member of Nanjing University Student Association Union (from Sep. 2016 to Jul. 2017)
+- Office Member of Nanjing University Student Association Union (from Sep. 2016 to Jun. 2017)
 
 ### Social Practices
 
-- 2018 Campus Festival of CAC Anime Club: I Participated in the Chorus of "Sakura no Ame" as a Member of the Tenor Vocal Part of the Monge Chorus
 - 2017 School-level Social Pratice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of 9 Members)
+
+## Research
+
+### Publications
+
+- Yicheng Huang, Chang Xu, Yanyan Jiang, Huiyan Wang, and Da Li, "WARDER: Towards Effective Spreadsheet Defect Detection by Validity-based Cell Cluster Refinements", Journal of Systems and Software (JSS), Volume 167, 2020, 110615. <a href="https://doi.org/10.1016/j.jss.2020.110615">[WEB]</a> <a href="https://njubroccoli.github.io/publications/huang_2020_warder.pdf">[PDF]</a>
+
+### Projects
+
+#### National Innovation Projects for Undergraduates:
+
+- Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
+  - Project leader, corporating with [Qinlin Chen](https://qinlinchen.github.io/), advised by Prof. [Chang Xu](https://cs.nju.edu.cn/changxu/)
+  - Rated as "Excellent" in the final defense
+
+#### Selected Course Projects:
+
+- [Raft Consensus Algorithm](https://github.com/NJUBroccoli/raft-impl) (from NJU course: "Distributed System", in Golang)
+- [x86 Full System Emulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from NJU course: "Introduction to Computer Systems", in C)
+- [Mini Operating System Kernel](https://github.com/NJUBroccoli/oslab) (from NJU course: "Operating Systems", in C)
+- [C-- Compiler](https://github.com/NJUBroccoli/HYCompiler) (from NJU course: "Principles and Techniques of Compiler", in C)
+- Sudoku Game System (corporating with Hao Yin, from NJU course: "Problem Solving (I)", in C++)
+- [Graphic Drawing Application](https://github.com/NJUBroccoli/HYC-Paint) (from NJU course: "Principle of Computer Graphics", in Java)
+- [AI System for Guandan](https://github.com/QinlinChen/guandan-ai) (corporating with Qinlin Chen and Shixuan Zhao, from NJU course: "Artificial Intelligence", in Python)
 
 ## Hobbies
 
-I love thinking and coding. Thanks to my course assignments, I once implemented x86 ISA and its emulator, an operating system with its own thread library and file system, a C-- compiler translated into MIPS, and a naïve graphic drawing application supporting drawing, manipulation and clipping.
-
-In spare time, I developed a 3D Tower Defense Game with Unity3D, a VSCode extension <a href="https://marketplace.visualstudio.com/items?itemName=Broccoli.cba-vscode">Coding Behavior Analysis</a> to analyze users&#39; coding behavior like coding speed, coding accuracy and frequency of typed characters, and a blog website with Flask. Coding is funny, although sometimes bitter.
-
-Watching videos (especially Anime), working out in gyms, cooking, and walking compose most of my leisure time.
+Watching videos (especially Anime), working out in gyms, FF14-ing, cooking, and walking compose most of my leisure time...
 
 ## Blog
 
