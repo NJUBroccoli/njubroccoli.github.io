@@ -1,3 +1,5 @@
+| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/zh-cn/) |
+
 ## How to Make A Good Technical Report?
 
 - Reporting is just like telling story. The requirements of research work are consistent with the requirements of storytelling.

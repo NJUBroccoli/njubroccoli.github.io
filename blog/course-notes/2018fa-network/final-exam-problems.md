@@ -1,5 +1,7 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/zh-cn/) |
+
 # 2018计算机网络期末考题回忆
 
 ## 题型设计

@@ -2,9 +2,10 @@
 
 # 个人博客
 
-## 原创文章
+## 文章
 
 - [How to make a good technical report?](https://njubroccoli.github.io/blog/articles/tech-report.html)
+- [选调生考试与公务员考试备考经验汇总](https://njubroccoli.github.io/blog/articles/cs-exam.html)
 
 ## 课程材料
 
