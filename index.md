@@ -1,5 +1,5 @@
 
-| [About](#about) | [Education](#education) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) | [Research](#research) | [Blog](https://njubroccoli.github.io/blog/) | [中文版主页](https://njubroccoli.github.io/zh-cn/) |
+| [About](#about) | [Education](#education) | [Skills](#Skills) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) | [Research](#research) | [Blog](https://njubroccoli.github.io/blog/) | [中文版主页](https://njubroccoli.github.io/zh-cn/) |
 
 # Yicheng Huang (黄奕诚)
 
@@ -24,6 +24,16 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
   - Received a junior middle school diploma
 - Changshan Central Primary School, Jiangyin High Tech Zone (2004.09 - 2010.06)
   - Received a primary school diploma
+
+## Skills
+
+- Computer Software
+    + Programming languages: Python, Java, C/C++, Go, MATLAB
+    + Tools: LaTeX, Git
+- Office and Organization
+    + Advanced mastery of Office (Excel, Word, PowerPoint)
+    + Long term writing experience of press release and Wechat push release
+    + Ability and experience of planning, organizing and coordinating various activities
 
 ## Honors and Awards
 
