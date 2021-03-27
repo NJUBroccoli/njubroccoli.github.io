@@ -1,5 +1,5 @@
 
-| [About](#about) | [Education](#education) | [Skills](#Skills) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) | [Research](#research) | [Blog](https://njubroccoli.github.io/blog/) | [中文版主页](https://njubroccoli.github.io/zh-cn/) |
+| [About](#about) | [Education](#education) | [Skills](#skills) | [Awards](#honors-and-awards) | [Services](#services-and-experiences) | [Research](#research) | [Blog](https://njubroccoli.github.io/blog/) | [中文版主页](https://njubroccoli.github.io/zh-cn/) |
 
 # Yicheng Huang (黄奕诚)
 
