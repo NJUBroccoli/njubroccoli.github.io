@@ -106,7 +106,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ## Hobbies
 
-Watching videos (especially Anime), working out in gyms, FF14-ing, cooking, and walking compose most of my leisure time...
+Watching videos (History, News, Anime, ...), working out in gyms, browsing Zhihu, FF14-ing, cooking, and walking compose most of my leisure time...
 
 ## Blog
 
