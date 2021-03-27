@@ -1,4 +1,4 @@
-| [About](https://njubroccoli.github.io/#about) | [Education](https://njubroccoli.github.io/#education) | [Awards](https://njubroccoli.github.io/#honors-and-awards) | [Services](https://njubroccoli.github.io/#services-and-experiences) | [Research](https://njubroccoli.github.io/#research) | [Blog](https://njubroccoli.github.io/blog/) |
+| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/zh-cn/) |
 
 # 个人博客
 
