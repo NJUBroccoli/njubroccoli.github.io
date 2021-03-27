@@ -9,7 +9,7 @@
 
 ## 课程材料
 
-### 本科课程 (2016秋-2020春｜南京大学)
+### 本科生课程 (2016秋-2020春｜南京大学)
 
 - Software Analysis (2020春, 软件分析)
     + [复习笔记](https://njubroccoli.github.io/blog/course-notes/2020sp-software-analysis/review.html)
@@ -30,6 +30,6 @@
 - Introduction to Database (2018秋, 数据库概论)
     + [复习笔记](https://njubroccoli.github.io/blog/course-notes/2018fa-database/review.html)
 
-### Graduate Course (2020fall - 2023spring @NJU)
+### 研究生课程 (2020秋-2023春｜南京大学)
 
-TBA
+待添加
