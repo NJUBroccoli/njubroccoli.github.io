@@ -24,7 +24,7 @@
 - [3] [优秀毕业生经验分享-韩政-广东选调（B站“南大就业”发布视频）](https://www.bilibili.com/video/BV1op4y1S7BR)
 - [4] [优秀毕业生经验分享-夏晓璇-江苏省名校优生（B站“南大就业”发布视频）](https://www.bilibili.com/video/BV1mp4y1S76K)
 - [5] [优秀毕业生经验分享-银鑫-陕西选调（B站“南大就业”发布视频）](https://www.bilibili.com/video/BV1qz4y197a6)
-- [6] [行测80+上岸大姐姐|2个月公考备考经验分享|公务员考试（B站“有点洁癖的小螃蟹”发布视频）](https://www.bilibili.com/video/BV1rT4y1G72G)
+- [6] [行测80+上岸大姐姐\|2个月公考备考经验分享\|公务员考试（B站“有点洁癖的小螃蟹”发布视频）](https://www.bilibili.com/video/BV1rT4y1G72G)
 - [7] [2020届江苏省名校优生上岸记录（“LV007”的知乎专栏）](https://zhuanlan.zhihu.com/p/172465705)
 - [8] [怎么快速提高《行测》中的图形推理题？（“萧萧枝叶”的知乎回答）](https://www.zhihu.com/question/300875689/answer/990197715)
 - [9] [公务员考试国考和省考怎么准备？（“老夫子”的知乎回答）](https://www.zhihu.com/question/297357354/answer/604159707)
