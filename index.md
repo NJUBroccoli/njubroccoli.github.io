@@ -50,14 +50,14 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 9. 2016-2017 Department Stars of Nanjing University Student Association Union (南京大学学生社团联合会2016-2017学年部门之星)
 
 ### Awards on Scholarships and Contests
-
-1. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
-2. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
-3. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM), with Yunzhi Lu and Chang Gu (2018年美国大学生交叉建模竞赛M奖)
-4. First Place in 2018 HKUST-NJU Academic Competition (Computer Science), with Qinlin Chen and Shixuan Zhao (2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名)
-5. Second Prize in 2018 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2018年南京大学拔尖计划奖学金二等奖)
-6. Third Prize in 2017 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2017年南京大学拔尖计划奖学金三等奖)
-7. Bronze Prize in 2017 Nanjing University Programming Contest (2017年南京大学程序设计竞赛铜奖)
+1. Second Prize of the 11th Nanjing University Career Planning Competition (Finals of Kaijia School, Department of Computer Science and Technology, and School of Artificial Intelligence) (南京大学第十一届生涯规划大赛——开甲书院、计算机系、人工智能学院赛区选拔赛决赛二等奖)
+2. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
+3. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
+4. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM), with Yunzhi Lu and Chang Gu (2018年美国大学生交叉建模竞赛M奖)
+5. First Place in 2018 HKUST-NJU Academic Competition (Computer Science), with Qinlin Chen and Shixuan Zhao (2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名)
+6. Second Prize in 2018 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2018年南京大学拔尖计划奖学金二等奖)
+7. Third Prize in 2017 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2017年南京大学拔尖计划奖学金三等奖)
+8. Bronze Prize in 2017 Nanjing University Programming Contest (2017年南京大学程序设计竞赛铜奖)
 
 ## Services and Experiences
 
