@@ -69,7 +69,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Student Affairs
 
-- Vice President, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
+- Acting Vice President, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
 - Key Member of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Mar. 2021)
 - Key Member of Office, Graduate Union of Nanjing University (from Mar. 2021)
 - Member of Activity Department, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Mar. 2021 to Jun. 2021)
