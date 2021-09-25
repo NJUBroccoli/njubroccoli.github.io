@@ -69,29 +69,19 @@
 
 ### 学生工作
 
-<<<<<<< HEAD
-- 南京大学计算机科学与技术系研究生会副主席（2021年6月至今）
-- 南京大学学生基层工作发展研究会组织部骨干会员（2021年3月至今）
-- 南京大学研究生会办公室骨干成员（2021年3月至今）
+- 南京大学学生基层工作发展研究会组织部副部长（2021年9月至今）
+- 南京大学计算机科学与技术系研究生会代理副主席（2021年6月至今）
+- 南京大学学生基层工作发展研究会组织部骨干会员（2021年3月至2021年9月）
+- 南京大学研究生会办公室骨干成员（2021年3月至2021年7月）
 - 南京大学计算机科学与技术系研究生会活动部部员（2021年3月至2021年6月）
 - 南京大学第二十四次学生代表大会代表（2020年7月）
 - 南京大学计算机科学与技术系2016级拔尖班班长兼团支部副书记（2016年9月至2020年7月）
 - 南京大学计算机科学与技术系学生工作办公室学生助理（2019年9月至2020年7月）
 - 南京大学学生社团联合会办公室部员（2016年9月至2017年6月）
-=======
-- Vice Minister of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Sep. 2021)
-- Acting Vice President, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
-- Key Member of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Mar. 2021 to Jun. 2021)
-- Key Member of Office, Graduate Union of Nanjing University (from Mar. 2021 to Jul. 2021)
-- Member of Activity Department, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Mar. 2021 to Jun. 2021)
-- Representative of the 24th Student Congress of Nanjing University (Jul. 2020)
-- Monitor & Deputy Secretary of Youth League Branch, Elite Program Class, Grade 2016, Department of Computer Science and Technology, Nanjing University (from Sep. 2016 to Jul. 2020)
-- Assistant of Student Affairs Office, Department of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
-- Office Member of Nanjing University Student Association Union (from Sep. 2016 to Jun. 2017)
->>>>>>> 373e1a759582cea99c2c62cff3f45ffa6eb408ea
 
 ### 社会实践
 
+- 2021年暑期响应江阴团市委号召，参与江阴市新冠疫苗接种便民志愿服务；参与江阴市委宣传部党史理论学习驿站的站点管理、数据处理等工作
 - 2017年校级社会实践项目：“隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研”（在一个9人团队，我担任宣传部成员，负责记录每天的日志，汇编成简报并且投稿，帮忙整理后期资料，参与问卷发放）
 
 ## 科研与项目
@@ -120,7 +110,7 @@
 
 ## 爱好
 
-业余时间大多数用来看视频（历史、新闻、动漫……）、刷知乎、健身、打FF14、烹饪、散步……
+业余时间大多数用来看视频（历史、新闻、动漫……）、刷知乎、健身、打FF14/原神、烹饪、散步……
 
 ## 个人博客
 

@@ -50,6 +50,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 9. 2016-2017 Department Stars of Nanjing University Student Association Union (南京大学学生社团联合会2016-2017学年部门之星)
 
 ### Awards on Scholarships and Contests
+
 1. Second Prize of the 11th Nanjing University Career Planning Competition (Finals of Kaijia School, Department of Computer Science and Technology, and School of Artificial Intelligence) (南京大学第十一届生涯规划大赛——开甲书院、计算机系、人工智能学院赛区选拔赛决赛二等奖)
 2. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
 3. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
@@ -69,9 +70,10 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Student Affairs
 
-- Vice President, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
-- Key Member of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Mar. 2021)
-- Key Member of Office, Graduate Union of Nanjing University (from Mar. 2021)
+- Vice Minister of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Sep. 2021)
+- Acting Vice President, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
+- Key Member of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Mar. 2021 to Sep. 2021)
+- Key Member of Office, Graduate Union of Nanjing University (from Mar. 2021 to Jul. 2021)
 - Member of Activity Department, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Mar. 2021 to Jun. 2021)
 - Representative of the 24th Student Congress of Nanjing University (Jul. 2020)
 - Monitor & Deputy Secretary of Youth League Branch, Elite Program Class, Grade 2016, Department of Computer Science and Technology, Nanjing University (from Sep. 2016 to Jul. 2020)
@@ -80,6 +82,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Social Practices
 
+- Summer of 2021: In response to the call of Jiangyin Communist Youth League Committee, I participated in the voluntary service of Jiangyin Covid-19 vaccination; I also participated in the site management and data processing of the party-history theory learning station of the Publicity Department of Jiangyin CPC committee
 - 2017 School-level Social Pratice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of 9 Members)
 
 ## Research
@@ -93,8 +96,8 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 #### National Innovation Projects for Undergraduates:
 
 - Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
-  - Project leader, corporating with [Qinlin Chen](https://qinlinchen.github.io/), advised by Prof. [Chang Xu](https://cs.nju.edu.cn/changxu/)
-  - Rated as "Excellent" in the final defense
+    - Project leader, corporating with [Qinlin Chen](https://qinlinchen.github.io/), advised by Prof. [Chang Xu](https://cs.nju.edu.cn/changxu/)
+    - Rated as "Excellent" in the final defense
 
 #### Selected Course Projects:
 
@@ -108,7 +111,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ## Hobbies
 
-Watching videos (History, News, Anime, ...), working out in gyms, browsing Zhihu, FF14-ing, cooking, and walking compose most of my leisure time...
+Watching videos (History, News, Anime, ...), working out in gyms, browsing Zhihu, playing FF14 (or Genshin Impact), cooking, and walking compose most of my leisure time...
 
 ## Blog
 
