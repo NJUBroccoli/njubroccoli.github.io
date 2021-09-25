@@ -1,4 +1,4 @@
-| [个人简介](#个人简介) | [教育经历](#教育经历) | [技能](#技能) | [荣誉与奖项](#荣誉与奖项) | [服务与经历](#服务与经历) | [科研与项目](#科研与项目) | [个人博客](https://njubroccoli.github.io/blog/) | [English Ver.](https://njubroccoli.github.io/en-us/) |
+| [个人简介](#个人简介) | [教育经历](#教育经历) | [技能](#技能) | [荣誉与奖项](#荣誉与奖项) | [服务与经历](#服务与经历) | [科研与项目](#科研与项目) | [个人博客](https://njubroccoli.github.io/blog/) | [英文版主页](https://njubroccoli.github.io/) |
 
 # 黄奕诚
 
@@ -69,26 +69,15 @@
 
 ### 学生工作
 
-<<<<<<< HEAD
-- 南京大学计算机科学与技术系研究生会副主席（2021年6月至今）
-- 南京大学学生基层工作发展研究会组织部骨干会员（2021年3月至今）
-- 南京大学研究生会办公室骨干成员（2021年3月至今）
+- 南京大学学生基层工作发展研究会组织部副部长（2021年9月至今）
+- 南京大学计算机科学与技术系研究生会代理副主席（2021年6月至今）
+- 南京大学学生基层工作发展研究会组织部骨干会员（2021年3月至2021年6月）
+- 南京大学研究生会办公室骨干成员（2021年3月至2021年7月）
 - 南京大学计算机科学与技术系研究生会活动部部员（2021年3月至2021年6月）
 - 南京大学第二十四次学生代表大会代表（2020年7月）
 - 南京大学计算机科学与技术系2016级拔尖班班长兼团支部副书记（2016年9月至2020年7月）
 - 南京大学计算机科学与技术系学生工作办公室学生助理（2019年9月至2020年7月）
 - 南京大学学生社团联合会办公室部员（2016年9月至2017年6月）
-=======
-- Vice Minister of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Sep. 2021)
-- Acting Vice President, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
-- Key Member of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Mar. 2021 to Jun. 2021)
-- Key Member of Office, Graduate Union of Nanjing University (from Mar. 2021 to Jul. 2021)
-- Member of Activity Department, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Mar. 2021 to Jun. 2021)
-- Representative of the 24th Student Congress of Nanjing University (Jul. 2020)
-- Monitor & Deputy Secretary of Youth League Branch, Elite Program Class, Grade 2016, Department of Computer Science and Technology, Nanjing University (from Sep. 2016 to Jul. 2020)
-- Assistant of Student Affairs Office, Department of Computer Science and Technology, Nanjing University (from Sep. 2019 to Jul. 2020)
-- Office Member of Nanjing University Student Association Union (from Sep. 2016 to Jun. 2017)
->>>>>>> 373e1a759582cea99c2c62cff3f45ffa6eb408ea
 
 ### 社会实践
 
