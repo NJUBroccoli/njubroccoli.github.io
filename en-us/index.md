@@ -51,15 +51,17 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Awards on Scholarships and Contests
 
-1. Second Prize of Excellent Undergraduate Design (or Thesis) of Colleges and Universities in Jiangsu Province in 2020（2020年江苏省普通高校本专科优秀毕业设计（论文）二等奖）
-2. Second Prize of the 11th Nanjing University Career Planning Competition (Finals of Kaijia School, Department of Computer Science and Technology, and School of Artificial Intelligence) (南京大学第十一届生涯规划大赛——开甲书院、计算机系、人工智能学院赛区选拔赛决赛二等奖)
-3. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
-4. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
-5. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM), with Yunzhi Lu and Chang Gu (2018年美国大学生交叉建模竞赛M奖)
-6. First Place in 2018 HKUST-NJU Academic Competition (Computer Science), with Qinlin Chen and Shixuan Zhao (2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名)
-7. Second Prize in 2018 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2018年南京大学拔尖计划奖学金二等奖)
-8. Third Prize in 2017 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2017年南京大学拔尖计划奖学金三等奖)
-9. Bronze Prize in 2017 Nanjing University Programming Contest (2017年南京大学程序设计竞赛铜奖)
+1. Tencent Scholarship for Postgraduates of Nanjing University in 2021（2021年南京大学研究生腾讯奖学金）
+2. Second Prize of Excellent Undergraduate Design (or Thesis) of Colleges and Universities in Jiangsu Province in 2020（2020年江苏省普通高校本专科优秀毕业设计（论文）二等奖）
+3. Second Prize of the 11th Nanjing University Career Planning Competition (Finals of Kaijia School, Department of Computer Science and Technology, and School of Artificial Intelligence) (南京大学第十一届生涯规划大赛——开甲书院、计算机系、人工智能学院赛区选拔赛决赛二等奖)
+4. First Class Academic Scholarship for Postgraduates of Nanjing University in 2020（2020年南京大学研究生一等学业奖学金）
+5. Special Prize of Excellent Undergraduate Thesis of Nanjing University in 2020 (2020年南京大学优秀本科毕业论文特等奖)
+6. First Prize in 2019 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2019年南京大学拔尖计划奖学金一等奖)
+7. Meritorious Winner of 2018 Interdisciplinary Contest In Modeling (ICM), with Yunzhi Lu and Chang Gu (2018年美国大学生交叉建模竞赛M奖)
+8. First Place in 2018 HKUST-NJU Academic Competition (Computer Science), with Qinlin Chen and Shixuan Zhao (2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名)
+9. Second Prize in 2018 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2018年南京大学拔尖计划奖学金二等奖)
+10. Third Prize in 2017 Scholarship for Top Talent Training Program of Basic Subjects (Elite Program) of Nanjing University (2017年南京大学拔尖计划奖学金三等奖)
+11. Bronze Prize in 2017 Nanjing University Programming Contest (2017年南京大学程序设计竞赛铜奖)
 
 ## Services and Experiences
 
