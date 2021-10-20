@@ -73,6 +73,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Student Affairs
 
+- Director of General Affair Center, Social Practice Department, Nanjing University Committee of the Communist Youth League (from Oct. 2021)
 - Vice Minister of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Sep. 2021)
 - Vice President, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
 - Key Member of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Mar. 2021 to Sep. 2021)
