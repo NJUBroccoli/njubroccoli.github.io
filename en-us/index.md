@@ -29,25 +29,29 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 - Computer Software
     + Programming languages: Python, Java, C/C++, Go, MATLAB
-    + Tools: LaTeX, Git
+    + Tools: LaTeX, Git, Database, ...
 - Office and Organization
-    + Advanced mastery of Office (Excel, Word, PowerPoint)
+    + Advanced mastery of Office (Excel, Word, and PowerPoint)
     + Long term writing experience of press release and Wechat push release
     + Ability and experience of planning, organizing and coordinating various activities
 
 ## Honors and Awards
 
-### Personal Honors
+### Comprehensive Honors
 
-1. 2020 Outstanding Communist Youth League Member Pacesetters of Nanjing University (南京大学2020年度优秀共青团员标兵)
-2. 2020 Outstanding Postgraduates of Nanjing University (南京大学2020年优秀研究生)
-3. 2020 Outstanding Postgraduates of Institute of Computer Software, Nanjing University (南京大学计算机软件研究所2020年度优秀研究生)
-4. 2020 Outstanding Graduates of Nanjing University (南京大学2020届优秀毕业生)
-5. 2018 Outstanding Communist Youth League Cadres of Nanjing University (南京大学2018年度优秀共青团干部)
-6. 2017-2018 Outstanding Student Cadre Pacesetters of Nanjing University (南京大学2017-2018学年优秀学生干部标兵)
-7. 2016-2017 Outstanding Communist Youth League Members of Nanjing University (南京大学2016-2017年度优秀共青团员)
-8. 2016-2017 Outstanding Students of Nanjing University (南京大学2016-2017学年度优秀学生)
-9. 2016-2017 Department Stars of Nanjing University Student Association Union (南京大学学生社团联合会2016-2017学年部门之星)
+1. 2021 Outstanding Postgraduate Pacesetters of Nanjing University (南京大学2021年优秀研究生标兵)
+2. 2020 Outstanding Communist Youth League Member Pacesetters of Nanjing University (南京大学2020年度优秀共青团员标兵)
+3. 2020 Outstanding Postgraduates of Nanjing University (南京大学2020年优秀研究生)
+4. 2020 Outstanding Postgraduates of Institute of Computer Software, Nanjing University (南京大学计算机软件研究所2020年度优秀研究生)
+5. 2020 Outstanding Graduates of Nanjing University (南京大学2020届优秀毕业生)
+6. 2018 Outstanding Communist Youth League Cadres of Nanjing University (南京大学2018年度优秀共青团干部)
+7. 2017-2018 Jiangsu Provincial Advanced Class (江苏省2017-2018年度省级先进班集体，集体荣誉)
+8. 2017-2018 Demonstration Site of Excellent Class Atmosphere Construction in Nanjing University (南京大学2017-2018学年优良班风建设示范点，集体荣誉)
+9. 2017-2018 Outstanding Student Cadre Pacesetters of Nanjing University (南京大学2017-2018学年优秀学生干部标兵)
+10. 2016 "May 4th Red Flag" League Branch of Nanjing University (南京大学2016年度五四红旗团支部，集体荣誉)
+11. 2016-2017 Outstanding Communist Youth League Members of Nanjing University (南京大学2016-2017年度优秀共青团员)
+12. 2016-2017 Outstanding Students of Nanjing University (南京大学2016-2017学年度优秀学生)
+13. 2016-2017 Department Stars of Nanjing University Student Association Union (南京大学学生社团联合会2016-2017学年部门之星)
 
 ### Awards on Scholarships and Contests
 
