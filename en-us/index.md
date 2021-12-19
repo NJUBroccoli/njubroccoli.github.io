@@ -15,7 +15,7 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 ## Education
 
 - Department of Computer Science and Technology, Nanjing University (2020.09 - )
-  - Studying for an M.Sc. Degree in Computer Science and Technology
+  - **Studying for an M.Sc. Degree in Computer Science and Technology**
 - Department of Computer Science and Technology, Nanjing University (2016.09 - 2020.07)
   - Received a B.Sc. Degree in Computer Science and Technology
 - Science Intensive Class, Nanjing Senior High School of Jiangsu Province (2013.09 - 2016.06)
@@ -77,9 +77,10 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Student Affairs
 
-- Director of General Affair Center, Social Practice Department, Nanjing University Committee of the Communist Youth League (from Oct. 2021)
-- Vice Minister of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Sep. 2021)
-- Member of the Presidium, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)
+- **Director of General Affair Center, Social Practice Department, Nanjing University Committee of the Communist Youth League (from Oct. 2021)**
+- **Vice Minister of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Sep. 2021)**
+- **Member of the Presidium, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Jun. 2021)**
+- Representative of the 5th Graduate Students' Congress of Nanjing University (Dec. 2021)
 - Key Member of Organization Department, Research Association on Development of Student Grass-roots Work, Nanjing University (from Mar. 2021 to Sep. 2021)
 - Key Member of Office, Graduate Union of Nanjing University (from Mar. 2021 to Jul. 2021)
 - Member of Activity Department, Graduate Union of Department of Computer Science and Technology, Nanjing University (from Mar. 2021 to Jun. 2021)
