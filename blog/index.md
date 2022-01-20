@@ -5,7 +5,8 @@
 ## 文章
 
 - [How to make a good technical report?](https://njubroccoli.github.io/blog/articles/tech-report.html)
-- [选调生考试与公务员考试备考经验汇总](https://njubroccoli.github.io/blog/articles/cs-exam.html)
+- [选调生考试与公务员考试备考经验汇总](https://njubroccoli.github.io/blog/articles/cs-exam.html)（企划暂停，将在备考阶段恢复更新）
+- [写在2022春节之前](https://njubroccoli.github.io/blog/articles/2022-01-20.html)
 
 ## 课程材料
 
@@ -32,4 +33,4 @@
 
 ### 研究生课程 (2020秋-2023春｜南京大学)
 
-待添加
+暂无完整的复习笔记（使用了PPT干瞪眼复习法）
