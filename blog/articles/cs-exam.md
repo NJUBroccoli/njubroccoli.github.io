@@ -1,4 +1,4 @@
-| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/zh-cn/) |
+| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/) |
 
 > **更新日志**
 > - 2021年4月2日22时：开坑行测经验汇总，收集了数十个资料源

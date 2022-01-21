@@ -1,4 +1,4 @@
-| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/zh-cn/) |
+| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/) |
 
 # 行政职业能力测验备考经验
 
