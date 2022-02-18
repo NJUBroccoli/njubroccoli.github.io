@@ -10,7 +10,7 @@
 
 ## About
 
-I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. Now my research interests are program synthesis, program analysis, and software reliability.
+I received my B.Sc. degree in computer science and technology from Nanjing University in July 2020, and I am studying for an M.Sc. degree in Nanjing University. My research interests are program testing, analysis, and synthesis for end-user software (e.g., spreadsheet software).
 
 ## Education
 
@@ -91,8 +91,9 @@ I received my B.Sc. degree in computer science and technology from Nanjing Unive
 
 ### Social Practices
 
-- Summer of 2021: In response to the call of Jiangyin Communist Youth League Committee, I participated in the voluntary service of Jiangyin Covid-19 vaccination; I also participated in the site management and data processing of the party-history theory learning station of the Publicity Department of Jiangyin CPC committee
-- 2017 School-level Social Pratice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of 9 Members)
+- Grassroots Volunteering: Summer of 2021 - In response to the call of Jiangyin Communist Youth League Committee, I participated in the voluntary service of Jiangyin Covid-19 vaccination; I also participated in the site management and data processing of the party-history theory learning station of the Publicity Department of Jiangyin CPC committee; Winter of 2022 - I participated in the entry of nucleic acid testing information in Xinhua District, Chengjiang Street, Jiangyin City
+- 2022 Winter Social Practice Project: "寻烈士足迹，悟革命情怀”南京大学星迹实践调研团" (in a Group of 10 Members)
+- 2017 School-level Social Practice Project: "隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研" (in a Group of 9 Members)
 
 ## Research
 
