@@ -4,7 +4,7 @@
 
 ## 文章
 
-- [选调生考试与公务员考试备考经验汇总](https://njubroccoli.github.io/blog/articles/cs-exam.html)（企划暂停，将在备考阶段恢复更新）
+- **[选调生考试与公务员考试备考经验汇总](https://njubroccoli.github.io/blog/articles/cs-exam.html)**（2022-07-01恢复更新）
 - [本科毕业论文答辩讲稿](https://njubroccoli.github.io/blog/articles/2020-06-10.pdf)（2020-06-10答辩）
 - [How to make a good technical report?](https://njubroccoli.github.io/blog/articles/tech-report.html)（2020-12-14撰写）
 - [大学生创新创业训练计划项目介绍](https://njubroccoli.github.io/blog/articles/2021-06-09.pdf)（2021-06-09分享于开甲书院形策课）
