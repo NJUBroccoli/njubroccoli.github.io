@@ -5,7 +5,7 @@
 - 政治面貌：中共预备党员
 - 在读学历：硕士研究生（计算机科学与技术专业）
 - 电子邮箱：<a href="mailto:njuhuangyc@outlook.com">njuhuangyc@outlook.com</a>
-- 单位：南京大学-计算机科学与技术系-计算机软件研究所-<a href="http://ics.nju.edu.cn/spar/">系统与程序分析研究组（SPAR组）</a>
+- 单位：南京大学-计算机科学与技术系-计算机软件研究所-<a href="https://cs.nju.edu.cn/ics/spar/index.html">系统与程序分析研究组（SPAR组）</a>
 - 办公室：南京大学仙林校区-计算机科学技术楼-544办公室
 
 ## 教育经历
