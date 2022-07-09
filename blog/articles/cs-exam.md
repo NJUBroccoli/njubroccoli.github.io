@@ -1,9 +1,10 @@
 | [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/) |
 
 > **更新日志**
-> - 2022年7月9日：更新行测笔记、资料收集、词语成语积累
-> - 2022年7月5日：更新申论的个人学习思路、观点现象评论题答题方法
-> - 2022年7月1日：更新公考选调前期准备，完善入党、学生工作、综合荣誉等方面，公开申论笔记
+> - 2022年7月9日：添加行测经验
+> - 2022年7月9日：添加行测笔记、资料收集、词语成语积累
+> - 2022年7月5日：添加申论的个人学习思路、观点现象评论题答题方法
+> - 2022年7月1日：更新公考选调前期准备（完善入党、学生工作、综合荣誉等方面）；添加申论笔记
 > - 2021年4月2日：开坑行测经验汇总，收集了数十个资料源
 
 # 选调生考试与公务员考试备考经验汇总
@@ -59,8 +60,9 @@
 
 ## 2. 行测备考
 
-1. [行测笔记及资料收集](https://njubroccoli.github.io/blog/articles/xingce.html)
-2. [行测词语成语积累](https://njubroccoli.github.io/blog/articles/chengyu.html)
+- (1) [行测笔记及资料收集](https://njubroccoli.github.io/blog/articles/xingce.html)
+- (2) [行测词语成语积累](https://njubroccoli.github.io/blog/articles/chengyu.html)
+- (3) [从海量错题中悟到的行测经验](https://njubroccoli.github.io/blog/articles/xcjy.html)
 
 ## 3. 申论备考
 
