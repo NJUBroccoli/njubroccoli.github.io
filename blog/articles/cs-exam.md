@@ -58,7 +58,8 @@
 
 ## 2. 行测备考
 
-详见文章[行政职业能力测验备考经验](https://njubroccoli.github.io/blog/articles/xingce.html)
+1. [行测笔记及资料收集](https://njubroccoli.github.io/blog/articles/xingce.html)
+2. [行测成语积累](https://njubroccoli.github.io/blog/articles/chengyu.html)
 
 ## 3. 申论备考
 
