@@ -1,7 +1,6 @@
 <!-- | [个人简介](#个人简介) | [教育经历](#教育经历) | [技能](#技能) | [荣誉奖项](#荣誉与奖项) | [服务经历](#服务与经历) | [科研项目](#科研与项目) | [个人博客](https://njubroccoli.github.io/blog/) -->
 
-| [Home](https://njubroccoli.github.io/) | [Blog](https://njubroccoli.github.io/blog/) |
-| ----- | ----- |
+| [Home](https://njubroccoli.github.io/) | [Blog](https://njubroccoli.github.io/blog/) | 
 
 
 # Yicheng Huang (黄奕诚)
@@ -13,27 +12,27 @@
 
 ## About
 
-I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University (both majoring in Computer Science and Technology). After graduating in 2023, I became a civil servant in Wuxi and later resigned. Since Jan 2024, I have been working in the AI Lab, NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes the methodology research and application development of AI for Education/Science/Software.
+I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both majoring in Computer Science and Technology). After graduating in 2023, I became a civil servant in Wuxi and later resigned. Since Jan 2024, I have been working in the AI Lab, NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes the methodology research and application development of AI for Education/Science/Software.
 
 ## Education
 
-- <img src="pic/nju.jpeg" style="zoom:1.7%;" /> **Nanjing University** (Sep 2020 - Jun 2023), Nanjing, China 
-  + Received an M.Sc. Degree in Computer Science and Technology
-  + Institute of Computer Software, Department of Computer Science and Technology, Nanjing University
+- <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **Nanjing University** (Sep 2020 - Jun 2023), Nanjing, China 
+  + Received a M.Sc. Degree in Computer Science and Technology
+  + Institute of Computer Software, Department of Computer Science and Technology
   + Advisor: [Prof. Chang Xu](https://cs.nju.edu.cn/changxu/index.htm) and [Prof. Yanyan Jiang](https://ics.nju.edu.cn/~jyy/)
 
-- <img src="pic/nju.jpeg" style="zoom:1.7%;" /> **Nanjing University** (Sep 2016 - Jun 2020), Nanjing, China
+- <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **Nanjing University** (Sep 2016 - Jun 2020), Nanjing, China
   + Received a B.Sc. Degree in Computer Science and Technology
 
-- <img src="pic/nj.jpeg" style="zoom:1.7%;" /> **Nanjing Senior High School of Jiangsu Province** (Sep 2013 - Jun 2016), Jiangyin, China
+- <img src="pic/nj.jpeg" style="zoom:2%;" /> **Nanjing Senior High School of Jiangsu Province** (Sep 2013 - Jun 2016), Jiangyin, China
 
 ## Work Experience
 
-- <img src="pic/nus.jpeg" style="zoom:0.5%;" /> National University of Singapore (Suzhou) Research Institute (Jan 2024 - ), Suzhou, China
+- <img src="pic/nus.jpeg" style="zoom:0.6%;" /> National University of Singapore (Suzhou) Research Institute (Jan 2024 - ), Suzhou, China
   + Assistant Investigator@AI Lab
 
-- <img src="pic/wx.jpeg" style="zoom:4%;" /> Wuxi Public Security Bureau (Aug 2023 - Sep 2023), Wuxi, China
-  + Civil Servant (Police) & Selected Graduates
+- <img src="pic/wx.jpeg" style="zoom:5%;" /> Wuxi Public Security Bureau (Aug 2023 - Sep 2023), Wuxi, China
+  + Civil Servant (Police) & Selected Graduate
 
 
 ## Pubs & Patents
