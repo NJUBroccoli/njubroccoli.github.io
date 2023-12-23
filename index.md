@@ -1,123 +1,74 @@
-| [个人简介](#个人简介) | [教育经历](#教育经历) | [技能](#技能) | [荣誉奖项](#荣誉与奖项) | [服务经历](#服务与经历) | [科研项目](#科研与项目) | [个人博客](https://njubroccoli.github.io/blog/)
+<!-- | [个人简介](#个人简介) | [教育经历](#教育经历) | [技能](#技能) | [荣誉奖项](#荣誉与奖项) | [服务经历](#服务与经历) | [科研项目](#科研与项目) | [个人博客](https://njubroccoli.github.io/blog/) -->
 
-# 黄奕诚
+| [Home](https://njubroccoli.github.io/) | [Blog](https://njubroccoli.github.io/blog/) |
+| ----- | ----- |
 
-- 政治面貌：中共党员
-- 学历学位：研究生学历，工学硕士学位
-- 电子邮箱：<a href="mailto:njuhuangyc@outlook.com">njuhuangyc@outlook.com</a>
 
-## 教育经历
+# Yicheng Huang (黄奕诚)
 
-- 南京大学-计算机科学与技术系（2020年9月至2023年6月）
-  - 获得工学硕士学位（计算机科学与技术）
-- 南京大学-计算机科学与技术系（2016年9月至2020年6月）
-  - 获得理学学士学位（计算机科学与技术）
-- 江苏省南菁高级中学-理科强化班（2013年9月至2016年7月）
-  - 获得高中文凭
-- 江阴市长山中学（2010年9月至2013年7月）
-  - 获得初中文凭
-- 江阴高新区长山中心小学（2004年9月至2010年7月）
-  - 获得小学文凭
+- Assistant Investigator
+- AI Lab, National University of Singapore (Suzhou) Research Institute
+- 🏬 Room 429, NUSRI (No.377 Linquan Street), SIP, Suzhou
+- 📮 njuhuangyc AT outlook DOT com
 
-## 荣誉与奖项
+## About
 
-### 综合荣誉
+I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University (both majoring in Computer Science and Technology). After graduating in 2023, I became a civil servant in Wuxi and later resigned. Since Jan 2024, I have been working in the AI Lab, NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes the methodology research and application development of AI for Education/Science/Software.
 
-1. 南京大学2023届优秀毕业生
-2. 2022年度江苏省优秀共青团员
-3. 南京大学2022年度优秀研究生
-4. 南京大学2021年度优秀研究生干部
-5. 南京大学2020年度优秀共青团员标兵
-6. 南京大学2020年度优秀研究生
-7. 南京大学计算机软件研究所2020年度优秀研究生
-8. 南京大学2020届优秀毕业生
-9. 南京大学2018年度优秀共青团干部
-10. 2017-2018年度江苏省省级先进班集体（集体荣誉）
-11. 南京大学2017-2018学年优良班风建设示范点（集体荣誉）
-12. 南京大学2017-2018学年优秀学生干部标兵
-13. 南京大学2016年度五四红旗团支部（集体荣誉）
-14. 南京大学2016-2017年度优秀共青团员
-15. 南京大学2016-2017学年度优秀学生
-16. 南京大学学生社团联合会2016-2017学年部门之星
+## Education
 
-### 奖学金与竞赛获奖
+- <img src="pic/nju.jpeg" style="zoom:1.7%;" /> **Nanjing University** (Sep 2020 - Jun 2023), Nanjing, China 
+  + Received an M.Sc. Degree in Computer Science and Technology
+  + Institute of Computer Software, Department of Computer Science and Technology, Nanjing University
+  + Advisor: [Prof. Chang Xu](https://cs.nju.edu.cn/changxu/index.htm) and [Prof. Yanyan Jiang](https://ics.nju.edu.cn/~jyy/)
 
-1. 2021年南京大学研究生腾讯奖学金
-2. 2020年江苏省普通高校本专科优秀毕业设计（论文）二等奖
-3. 南京大学第十一届生涯规划大赛——开甲书院、计算机系、人工智能学院赛区选拔赛决赛二等奖
-4. 2020年南京大学研究生一等学业奖学金
-5. 2020年南京大学优秀本科毕业论文特等奖
-6. 2019年南京大学拔尖计划奖学金一等奖
-7. 2018年美国大学生交叉建模竞赛M奖（团队成员为：陆韵芝、黄奕诚、顾畅）
-8. 2018年南京大学-香港科技大学计算机科学学术竞赛团体第一名（团队成员为：黄奕诚、陈钦霖、赵士轩）
-9. 2018年南京大学拔尖计划奖学金二等奖
-10. 2017年南京大学拔尖计划奖学金三等奖
-11. 2017年南京大学程序设计竞赛铜奖
+- <img src="pic/nju.jpeg" style="zoom:1.7%;" /> **Nanjing University** (Sep 2016 - Jun 2020), Nanjing, China
+  + Received a B.Sc. Degree in Computer Science and Technology
 
-## 服务与实践
+- <img src="pic/nj.jpeg" style="zoom:1.7%;" /> **Nanjing Senior High School of Jiangsu Province** (Sep 2013 - Jun 2016), Jiangyin, China
 
-### 学术学业
+## Work Experience
 
-- 担任助教：<a href="https://nju-sicp.bitbucket.io">《计算机程序的构造和解释》课程</a>（2020年秋学期）
-- 参加学术会议：2017年中国计算机大会（CNCC'17，中国福州），2020年ACM SIGPLAN程序设计语言设计与实现会议（PLDI'20，线上参会），2020年中国软件大会（Chinasoft'20，中国重庆）
-- 2018年2月香港四校学术交换（香港大学、香港中文大学、香港科技大学、香港理工大学），由南京大学计算机科学与技术系与香港各校共同组织
+- <img src="pic/nus.jpeg" style="zoom:0.5%;" /> National University of Singapore (Suzhou) Research Institute (Jan 2024 - ), Suzhou, China
+  + Assistant Investigator@AI Lab
 
-### 团学工作
+- <img src="pic/wx.jpeg" style="zoom:4%;" /> Wuxi Public Security Bureau (Aug 2023 - Sep 2023), Wuxi, China
+  + Civil Servant (Police) & Selected Graduates
 
-- 共青团南京大学委员会社会实践部综合事务中心主任（2021年10月至2022年9月）
-- 南京大学学生基层工作发展研究会组织部副部长（2021年9月至2022年6月）
-- 南京大学计算机科学与技术系研究生会主席团成员（2021年6月至2022年6月）
-- 南京大学第五次研究生代表大会代表（2021年12月）
-- 南京大学学生基层工作发展研究会组织部骨干会员（2021年3月至2021年9月）
-- 南京大学研究生会办公室骨干成员（2021年3月至2021年7月）
-- 南京大学计算机科学与技术系研究生会活动部部员（2021年3月至2021年6月）
-- 南京大学第二十四次学生代表大会代表（2020年7月）
-- 南京大学计算机科学与技术系2016级拔尖班班长兼团支部副书记（2016年9月至2020年7月）
-- 南京大学计算机科学与技术系学生工作办公室学生助理（2019年9月至2020年7月）
-- 南京大学学生社团联合会办公室部员（2016年9月至2017年6月）
 
-### 社会实践
+## Pubs & Patents
 
-- 基层志愿服务：2021年暑期响应江阴团市委号召，参与江阴市新冠疫苗接种便民志愿服务、江阴市委宣传部党史理论学习驿站的站点管理、数据处理等工作；2022年寒假参与江阴市澄江街道新华社区核酸检测信息录入工作；2022年暑期参与江阴市天鹤社区全员核酸检测服务工作
-- 2022年寒假社会实践项目：“寻烈士足迹，悟革命情怀”南京大学星迹实践调研团（在9人团队中负责全程摄影、视频剪辑、多媒体宣传和部分文案的撰写工作）
-- 2017年校级社会实践项目：“隔世古香：寻觅中华团队基于古建筑群的发展现状的两极矛盾对安徽黄山黟县宏村及县城古建筑的调研”（在9人团队中担任宣传部成员，负责记录每天的日志，汇编成简报并且投稿，帮忙整理后期资料，参与问卷发放）
+1. **Yicheng Huang**, Chang Xu, Yanyan Jiang, Huiyan Wang, and Da Li, "WARDER: Towards Effective Spreadsheet Defect Detection by Validity-based Cell Cluster Refinements", Journal of Systems and Software (JSS), Volume 167, 2020, 110615. <a href="https://doi.org/10.1016/j.jss.2020.110615">[web]</a> <a href="https://njubroccoli.github.io/publications/huang_2020_warder.pdf">[pdf]</a> (Implemented in Java)
+2. 蒋炎岩，**黄奕诚**，许畅. 一种电子表格公式计算规则逆向工程方法. 发明专利，申请号: 2023103290575. 申请日: 2023.03.30. (Implemented in Python)
+3. 许畅，蒋炎岩，**黄奕诚**，陈钦霖，石丰民. 基于视频动态分析的电子表格公式合成与错误检测方法. 发明专利，专利号: ZL2019113070147. 授权公告日: 2023.04.25. (Implemented in Java/Android)
 
-## 科研与项目
+## Projects
 
-研究兴趣：终端用户软件（例如电子表格软件）的程序测试、分析与合成
+- [The Raft Consensus Algorithm](https://github.com/NJUBroccoli/raft-impl) (from Course "Distributed System", Implemented in Golang)
+- [x86 Full-system Simulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from Course "Introduction to Computer Systems", Implemented in C)
+- [Mini OS Kernel](https://github.com/NJUBroccoli/oslab) (from Course "Operating System", Implemented in C)
+- [C-- Compiler](https://github.com/NJUBroccoli/HYCompiler) (from Course "Principle of Compiler", Implemented in C)
+- Sudoku Game (from Course "Problem Solving", Implemented in C++)
+- [Graphic Drawing APP](https://github.com/NJUBroccoli/HYC-Paint) (from Course "Computer Graphics", Implemented in Java)
+- [Guandan AI System](https://github.com/QinlinChen/guandan-ai) (from Course "Artificial Intelligence", Implemented in Python)
 
-### 论文发表
+## Services
 
-- Yicheng Huang, Chang Xu, Yanyan Jiang, Huiyan Wang, and Da Li, "WARDER: Towards Effective Spreadsheet Defect Detection by Validity-based Cell Cluster Refinements", Journal of Systems and Software (JSS), Volume 167, 2020, 110615. <a href="https://doi.org/10.1016/j.jss.2020.110615">[网页版]</a> <a href="https://njubroccoli.github.io/publications/huang_2020_warder.pdf">[PDF版]</a>
+- **Teaching Assistant** for ["Structure and Interpretation of Computer Programs" (Fall 2020)](https://nju-sicp.bitbucket.io/2020/), Nanjing University
+- **Student Affairs** at Nanjing University
+  + Vice Chairman of the Graduate Student Association of the Department of Computer Science and Technology (Jun 2021 - Jun 2022)
+  + Director of the Comprehensive Affairs Center of the Social Practice Department of the Youth League Committee (Oct 2021 - Sep 2022)
+  + Class Leader of the 2016 Elite-Plan Class of the Department of Computer Science and Technology (Sep 2016 - Jun 2020)
 
-### 项目
+## Awards & Honors
 
-#### 国家大学生创新创业训练项目
+- **Scholarships** from Nanjing University
+  + Tencent Scholarship (2021)
+  + Elite-Plan Scholarships (1st Prize@2019, 2nd Prize@2018, 3rd Prize@2017)
 
-- 基于视频动态识别的电子表格缺陷检测（2018年5月至2020年3月）
-  - 担任项目负责人，国家级立项，结题答辩中以“优秀”级别结项
+- **Competition Awards** from Nanjing University
+  + Special Prize (School Level) and Second Prize (Province Level) on the Undergraduate Thesis (2020)
+  + Winning the M Award in the MCM/ICM (2018)
 
-#### 部分课程项目
-
-- [Raft共识算法](https://github.com/NJUBroccoli/raft-impl)（南京大学课程“分布式系统”，用Go语言实现）
-- [x86全系统模拟器](https://github.com/NJUBroccoli/Programming-Assignment-2017)（南京大学课程“计算机系统基础”，用C语言实现)
-- [小型操作系统内核](https://github.com/NJUBroccoli/oslab)（南京大学课程“操作系统”，用C语言实现）
-- [C--编译器](https://github.com/NJUBroccoli/HYCompiler)（南京大学课程“编译原理”，用C语言实现）
-- 数独游戏系统（南京大学课程“问题求解（一）”，与尹皓同学合作，用C++语言实现）
-- [图形绘制软件](https://github.com/NJUBroccoli/HYC-Paint)（南京大学课程“计算机图形学”，用Java语言实现）
-- [惯蛋AI系统](https://github.com/QinlinChen/guandan-ai)（南京大学课程“人工智能”，与陈钦霖同学、赵士轩同学合作，用Python语言实现）
-
-## 爱好
-
-1. 摄影
-    - 目前相机：Fujifilm X-T30II；镜头：XF 16-80f/4、Viltrox 85f/1.8、Sigma 30f/1.4、TTartisan 35f/1.4
-    - 业余人像摄影师（欢迎互勉）
-2. 看视频：科技数码、历史科普为主
-3. 听歌唱歌：ACG、古典为主
-4. 健身：正儿八经撸铁
-5. 打游戏：FF14（鸟区幻影群岛、ID：布劳珂莉）、原神（ID：191627175）
-6. 新媒体：剪视频、排推送
-
-## 个人博客
-
-我在2020年11月1日创建了我的[个人博客](https://njubroccoli.github.io/blog/)，一些计算机课程的笔记或者个人经历杂谈将会发布在上面。
+- **Comprehensive Honors** from Nanjing University
+  + Outstanding Graduates (2023, 2020), Outstanding Graduate Students (2022, 2020), Outstanding Graduate Cadres (2021), Outstanding Undergraduate Cadres (2018), Outstanding Undergraduate Students (2017)
