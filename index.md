@@ -41,21 +41,22 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
 2. 蒋炎岩，**黄奕诚**，许畅. 一种电子表格公式计算规则逆向工程方法. 发明专利，申请号: 2023103290575. 申请日: 2023.03.30. (Implemented in Python)
 3. 许畅，蒋炎岩，**黄奕诚**，陈钦霖，石丰民. 基于视频动态分析的电子表格公式合成与错误检测方法. 发明专利，专利号: ZL2019113070147. 授权公告日: 2023.04.25. (Implemented in Java/Android)
 
-## Projects
+<!-- ## Projects
 
-- [The Raft Consensus Algorithm](https://github.com/NJUBroccoli/raft-impl) (from Course "Distributed System", Implemented in Golang)
-- [x86 Full-system Simulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from Course "Introduction to Computer Systems", Implemented in C)
-- [Mini OS Kernel](https://github.com/NJUBroccoli/oslab) (from Course "Operating System", Implemented in C)
-- [C-- Compiler](https://github.com/NJUBroccoli/HYCompiler) (from Course "Principle of Compiler", Implemented in C)
-- Sudoku Game (from Course "Problem Solving", Implemented in C++)
-- [Graphic Drawing APP](https://github.com/NJUBroccoli/HYC-Paint) (from Course "Computer Graphics", Implemented in Java)
-- [Guandan AI System](https://github.com/QinlinChen/guandan-ai) (from Course "Artificial Intelligence", Implemented in Python)
+- Course Projects
+  + [The Raft Consensus Algorithm](https://github.com/NJUBroccoli/raft-impl) (from Course "Distributed System", Implemented in Golang)
+  + [x86 Full-system Simulator](https://github.com/NJUBroccoli/Programming-Assignment-2017) (from Course "Introduction to Computer Systems", Implemented in C)
+  + [Mini OS Kernel](https://github.com/NJUBroccoli/oslab) (from Course "Operating System", Implemented in C)
+  + [C-- Compiler](https://github.com/NJUBroccoli/HYCompiler) (from Course "Principle of Compiler", Implemented in C)
+  + Sudoku Game (from Course "Problem Solving", Implemented in C++)
+  + [Graphic Drawing APP](https://github.com/NJUBroccoli/HYC-Paint) (from Course "Computer Graphics", Implemented in Java)
+  + [Guandan AI System](https://github.com/QinlinChen/guandan-ai) (from Course "Artificial Intelligence", Implemented in Python) -->
 
 ## Services
 
 - **Teaching Assistant** for ["Structure and Interpretation of Computer Programs" (Fall 2020)](https://nju-sicp.bitbucket.io/2020/), Nanjing University
 - **Student Affairs** in Nanjing University
-  + Vice Chairman of the Graduate Student Association of the Department of Computer Science and Technology (Jun 2021 - Jun 2022)
+  + Vice Chairman of the Graduate Student Union of the Department of Computer Science and Technology (Jun 2021 - Jun 2022)
   + Director of the Comprehensive Affairs Center of the Social Practice Department of the Youth League Committee (Oct 2021 - Sep 2022)
   + Class Leader of the 2016 Elite-Plan Class of the Department of Computer Science and Technology (Sep 2016 - Jun 2020)
 
@@ -72,3 +73,9 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
 - **Comprehensive Honors**
   + Outstanding Member of the Communist Youth League (2022) from Jiangsu Province
   + Outstanding Graduates (2023, 2020), Outstanding Graduate Students (2022, 2020), Outstanding Graduate Cadres (2021), Outstanding Undergraduate Cadres (2018), Outstanding Undergraduate Students (2017) from NJU
+
+## Hobbies
+
+- 📷 Photograph (Fujifilm X-T30ii)
+- 📚 Reading (History & Sci-fi)
+- 🚶 Citywalk (From China to the World)
