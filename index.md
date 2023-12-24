@@ -12,7 +12,7 @@
 
 ## About
 
-I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both majoring in Computer Science and Technology). After graduating in 2023, I became a civil servant in Wuxi and later resigned. Since Jan 2024, I have been working in the AI Lab, NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes the methodology research and application development of AI for Education/Science/Software.
+I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both majoring in Computer Science and Technology). After graduating in 2023, I became a civil servant in Wuxi and later resigned. Since Jan 2024, I have been working in the AI Lab of NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes AI for Education/Science/Software.
 
 ## Education
 
@@ -31,7 +31,7 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
 - <img src="pic/nus.jpeg" style="zoom:0.6%;" /> National University of Singapore (Suzhou) Research Institute (Jan 2024 - ), Suzhou, China
   + Assistant Investigator@AI Lab
 
-- <img src="pic/wx.jpeg" style="zoom:5%;" /> Wuxi Public Security Bureau (Aug 2023 - Sep 2023), Wuxi, China
+- <img src="pic/wx.jpeg" style="zoom:5%;" /> Wuxi Public Security Bureau (Aug 2023 - Dec 2023), Wuxi, China
   + Civil Servant (Police) & Selected Graduate
 
 
@@ -54,20 +54,21 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
 ## Services
 
 - **Teaching Assistant** for ["Structure and Interpretation of Computer Programs" (Fall 2020)](https://nju-sicp.bitbucket.io/2020/), Nanjing University
-- **Student Affairs** at Nanjing University
+- **Student Affairs** in Nanjing University
   + Vice Chairman of the Graduate Student Association of the Department of Computer Science and Technology (Jun 2021 - Jun 2022)
   + Director of the Comprehensive Affairs Center of the Social Practice Department of the Youth League Committee (Oct 2021 - Sep 2022)
   + Class Leader of the 2016 Elite-Plan Class of the Department of Computer Science and Technology (Sep 2016 - Jun 2020)
 
 ## Awards & Honors
 
-- **Scholarships** from Nanjing University
-  + Tencent Scholarship (2021)
-  + Elite-Plan Scholarships (1st Prize@2019, 2nd Prize@2018, 3rd Prize@2017)
+- **Scholarships**
+  + Tencent Scholarship (2021) from Tencent
+  + Elite-Plan Scholarships (1st Prize@2019, 2nd Prize@2018, 3rd Prize@2017) from NJU
 
-- **Competition Awards** from Nanjing University
+- **Competition Awards**
   + Special Prize (School Level) and Second Prize (Province Level) on the Undergraduate Thesis (2020)
-  + Winning the M Award in the MCM/ICM (2018)
+  + The M-Award in the MCM/ICM (2018)
 
-- **Comprehensive Honors** from Nanjing University
-  + Outstanding Graduates (2023, 2020), Outstanding Graduate Students (2022, 2020), Outstanding Graduate Cadres (2021), Outstanding Undergraduate Cadres (2018), Outstanding Undergraduate Students (2017)
+- **Comprehensive Honors**
+  + Outstanding Member of the Communist Youth League (2022) from Jiangsu Province
+  + Outstanding Graduates (2023, 2020), Outstanding Graduate Students (2022, 2020), Outstanding Graduate Cadres (2021), Outstanding Undergraduate Cadres (2018), Outstanding Undergraduate Students (2017) from NJU
