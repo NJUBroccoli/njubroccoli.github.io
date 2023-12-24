@@ -78,4 +78,4 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
 
 - 📷 Photograph (Fujifilm X-T30ii)
 - 📚 Reading (History & Sci-fi)
-- 🚶 Citywalk (From China to the World)
+- 🚶 Citywalk (from China to the World)
