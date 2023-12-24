@@ -28,10 +28,10 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
 
 ## Work Experience
 
-- <img src="pic/nus.jpeg" style="zoom:0.6%;" /> National University of Singapore (Suzhou) Research Institute (Jan 2024 - ), Suzhou, China
+- <img src="pic/nus.jpeg" style="zoom:0.6%;" /> **NUS (Suzhou) Research Institute** (Jan 2024 - ), Suzhou, China
   + Assistant Investigator@AI Lab
 
-- <img src="pic/wx.jpeg" style="zoom:5%;" /> Wuxi Public Security Bureau (Aug 2023 - Dec 2023), Wuxi, China
+- <img src="pic/wx.jpeg" style="zoom:5%;" /> **Wuxi Public Security Bureau** (Aug 2023 - Dec 2023), Wuxi, China
   + Civil Servant (Police) & Selected Graduate
 
 
