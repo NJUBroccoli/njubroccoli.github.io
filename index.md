@@ -7,8 +7,8 @@
 
 - Assistant Investigator
 - AI Lab, National University of Singapore (Suzhou) Research Institute
-- 🏬 Room 429, NUSRI (No.377 Linquan Street), SIP, Suzhou
-- 📮 njuhuangyc AT outlook DOT com
+- 🏢 Office 429, NUSRI (No.377 Linquan Street), SIP, Suzhou
+- 📧 njuhuangyc AT outlook DOT com
 
 ## About
 
