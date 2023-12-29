@@ -75,6 +75,6 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
 
 ## Hobbies
 
-- 📷 Photograph (Fujifilm X-T30ii)
+- 📷 Photograph (Fujifilm X-T30ii & 🤫 My GF's Lumix G100M)
 - 📚 Reading (History & Sci-fi)
-- 🚶 Citywalk (from China to the World)
+- 🚶 Travelling (from China to the World)
