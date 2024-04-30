@@ -19,7 +19,7 @@ I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both
 
 - <img src="pic/nus.jpeg" style="zoom:0.6%;" /> **NUS (Suzhou) Research Institute** (Jan 2024 - ), Suzhou, China
   + Assistant Investigator@AI Lab
-  + Research on AI for Education & Backend Development, testing, and deployment
+  + Research on AI for Education & Backend Development, Testing, and Deployment
 
 - <img src="pic/wx.jpeg" style="zoom:5%;" /> **Wuxi Public Security Bureau** (Aug 2023 - Dec 2023), Wuxi, China
   + Civil Servant (Police) & "Selected Graduates"
