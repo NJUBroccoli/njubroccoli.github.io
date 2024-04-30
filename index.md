@@ -5,29 +5,32 @@
 
 # Yicheng Huang (黄奕诚)
 
-- Assistant Investigator
-- AI Lab, National University of Singapore (Suzhou) Research Institute
-- 🏢 Office 429, NUSRI (No.377 Linquan Street), SIP, Suzhou
-- 📧 yicheng.huang AT nusri DOT cn
+Assistant Investigator at the AI Lab, NUS (Suzhou) Research Institute
 
-## About
+**Email:** yicheng.huang AT nusri DOT cn
 
-I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both majoring in Computer Science and Technology). After graduating in 2023, I became a civil servant in Wuxi and later resigned. Since Jan 2024, I have been working in the AI Lab of NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes AI for Education/Science/Software.
+**Office:** Room 415, Block 3, NUSRI (No.377 Linquan Street), SIP, Suzhou
+
+## Bio
+
+I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both majoring in Computer Science and Technology. After graduation, I became a civil servant in Wuxi, later resigned and joined the industry. Since Jan 2024, I have been working in the AI Lab of NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes AI for Education/Science/Software.
 
 ## Work Experience
 
 - <img src="pic/nus.jpeg" style="zoom:0.6%;" /> **NUS (Suzhou) Research Institute** (Jan 2024 - ), Suzhou, China
   + Assistant Investigator@AI Lab
+  + Research on AI for Education & Backend Development, testing, and deployment
 
 - <img src="pic/wx.jpeg" style="zoom:5%;" /> **Wuxi Public Security Bureau** (Aug 2023 - Dec 2023), Wuxi, China
-  + Civil Servant (Police) & Selected Graduate
+  + Civil Servant (Police) & "Selected Graduates"
+  + Working on Network Security
 
 ## Education
 
 - <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **Nanjing University** (Sep 2020 - Jun 2023), Nanjing, China
-  + Received a M.Sc. Degree in Computer Science and Technology
+  + Received an M.Sc. Degree in Computer Science and Technology
   + Institute of Computer Software, Department of Computer Science and Technology
-  + Advisor: [Prof. Chang Xu](https://cs.nju.edu.cn/changxu/index.htm) and [Prof. Yanyan Jiang](https://ics.nju.edu.cn/~jyy/)
+  + Advisors: [Prof. Chang Xu](https://cs.nju.edu.cn/changxu/index.htm) and [Prof. Yanyan Jiang](https://ics.nju.edu.cn/~jyy/)
 
 - <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **Nanjing University** (Sep 2016 - Jun 2020), Nanjing, China
   + Received a B.Sc. Degree in Computer Science and Technology
@@ -59,7 +62,7 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University (both 
   + Director of the Comprehensive Affairs Center of the Social Practice Department of the Youth League Committee (Oct 2021 - Sep 2022)
   + Class Leader of the 2016 Elite-Plan Class of the Department of Computer Science and Technology (Sep 2016 - Jun 2020)
 
-## Awards & Honors
+## Honors & Awards
 
 - **Scholarships**
   + Tencent Scholarship (2021) from Tencent
