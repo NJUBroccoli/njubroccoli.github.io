@@ -1,5 +1,5 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/) |
+| [博客首页](https://yicheng-dev.github.io/blog/) | [个人主页](https://yicheng-dev.github.io/) |
 
 # 行测笔记及资料收集
 
