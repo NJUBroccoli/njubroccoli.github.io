@@ -1,6 +1,6 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/zh-cn/) |
+| [博客首页](https://yicheng-dev.github.io/blog/) | [个人主页](https://yicheng-dev.github.io/zh-cn/) |
 
 # 《计算机图形学》复习提纲
 
