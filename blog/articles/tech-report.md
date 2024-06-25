@@ -1,4 +1,4 @@
-| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/) |
+| [博客首页](https://yicheng-dev.github.io/blog/) | [个人主页](https://yicheng-dev.github.io/) |
 
 ## How to Make A Good Technical Report?
 
