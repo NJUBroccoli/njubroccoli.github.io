@@ -1,4 +1,4 @@
-| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/) |
+| [博客首页](https://yicheng-dev.github.io/blog/) | [个人主页](https://yicheng-dev.github.io/) |
 
 # 写在最前：我个人的学习思路
 
