@@ -64,6 +64,9 @@ I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both
 
 ## Honors & Awards
 
+- **Qualifications**
+  + Chinese Professional Qualification of Computer Technology and Software: Software Designer (Medium-title) (2024)
+
 - **Scholarships**
   + Tencent Scholarship (2021) from Tencent
   + Elite-Plan Scholarships (1st Prize@2019, 2nd Prize@2018, 3rd Prize@2017) from NJU
