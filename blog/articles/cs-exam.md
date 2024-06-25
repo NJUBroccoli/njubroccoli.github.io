@@ -1,4 +1,4 @@
-| [博客首页](https://njubroccoli.github.io/blog/) | [个人主页](https://njubroccoli.github.io/) |
+| [博客首页](https://yicheng-dev.github.io/blog/) | [个人主页](https://yicheng-dev.github.io/) |
 
 > **更新日志**
 > - 2022年7月9日：添加行测经验
